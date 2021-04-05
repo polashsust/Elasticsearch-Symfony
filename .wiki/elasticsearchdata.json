@@ -1,0 +1,3376 @@
+{
+  "took": 7,
+  "timed_out": false,
+  "_shards": {
+    "total": 2,
+    "successful": 2,
+    "failed": 0
+  },
+  "hits": {
+    "total": 247,
+    "max_score": 1.0,
+    "hits": [
+      {
+        "_index": "data_dao",
+        "_type": "topteaser",
+        "_id": "237",
+        "_score": 1.0,
+        "_source": {
+          "sortingpriority": 0,
+          "localized": {
+            "de": {
+              "description": "Dies ist der Test-Teaser-Inhalt"
+            },
+            "de_at": {
+              "description": null
+            },
+            "de_ch": {
+              "description": null
+            },
+            "en": {
+              "description": "This is the Test teaser content"
+            }
+          },
+          "type": "object",
+          "key": "TestTopTeaser",
+          "path": "\/Test Group\/topteaser\/",
+          "tags": [
+            7
+          ]
+        }
+      },
+      {
+        "_index": "data_dao",
+        "_type": "introtext",
+        "_id": "246",
+        "_score": 1.0,
+        "_source": {
+          "sortingpriority": 0,
+          "localized": {
+            "de": {
+              "name": "Introtext LEOS",
+              "headline": "\u00dcber LEOS",
+              "introtext": "<p>Company Engineering and Operational Services GmbH (LEOS) bietet Service rund um die Wartung von Flugzeugen und die Bodenabfertigung. Dieser reicht von Flugzeugschlepps \u00fcber die Bef\u00f6rderung von Crews sowie Spezifikationen, Beschaffung und Instandhaltung von Tools und Bodenger\u00e4ten bis hin zur umfassenden Planung, Beratung und Beschaffung von Ger\u00e4t bei Gro\u00dfprojekten.<\/p>\n"
+            },
+            "de_at": {
+              "name": null,
+              "headline": null,
+              "introtext": null
+            },
+            "de_ch": {
+              "name": null,
+              "headline": null,
+              "introtext": null
+            },
+            "en": {
+              "name": "Introtext LEOS",
+              "headline": "About LEOS",
+              "introtext": "<p>Company Engineering and Operational Services (LEOS) GmbH offers services covering all aspects of aircraft ground handling and maintenance. This ranges from aircraft towing, crew transportation, procuring and maintaining tools and ground devices, right on up to comprehensive planning, consulting and procurement of devices for large projects.<\/p>\n"
+            }
+          },
+          "type": "object",
+          "key": "Introtext LEOS",
+          "path": "\/LEOS\/Introtext\/",
+          "tags": [
+            16
+          ]
+        }
+      },
+      {
+        "_index": "data_dao",
+        "_type": "introtext",
+        "_id": "248",
+        "_score": 1.0,
+        "_source": {
+          "sortingpriority": 0,
+          "localized": {
+            "de": {
+              "name": "Introtext LAT",
+              "headline": "\u00dcber Company Aviation Training",
+              "introtext": "<p>Company Aviation Training ist der Zusammenschluss von Company Flight Training und Swiss AviationTraining. Das bedeutet: Zwei f\u00fchrende Flight Training Provider haben ihr Know-how geb\u00fcndelt, um neue Ma\u00dfst\u00e4be zu setzen. Wir entwickeln uns vom Trainingsanbieter zum Full-Service-Provider f\u00fcr Airlines, Piloten und Cabin Crews und bieten ma\u00dfgeschneiderte, innovative Trainingsl\u00f6sungen.<\/p>\n"
+            },
+            "de_at": {
+              "name": null,
+              "headline": null,
+              "introtext": null
+            },
+            "de_ch": {
+              "name": null,
+              "headline": null,
+              "introtext": null
+            },
+            "en": {
+              "name": "Introtext LAT",
+              "headline": "About Company Aviation Training",
+              "introtext": "<p>Company Aviation Training was formed from the merger of Company Flight Training and Swiss AviationTraining. This means that two of the leading flight training providers combined their expertise to set new standards. We are growing from training provider to a full service provider for airlines, pilots, and cabin crews and offer customized, innovative training solutions.<\/p>\n"
+            }
+          },
+          "type": "object",
+          "key": "Introtext LAT",
+          "path": "\/Company Aviation Training\/Introtext\/",
+          "tags": [
+            17
+          ]
+        }
+      },
+      {
+        "_index": "data_dao",
+        "_type": "introtext",
+        "_id": "252",
+        "_score": 1.0,
+        "_source": {
+          "sortingpriority": 0,
+          "localized": {
+            "de": {
+              "name": "Introtext Consulting",
+              "headline": "\u00dcber Company Consulting",
+              "introtext": "<p>Company Consulting ist eine der f\u00fchrenden Managementberatungen in der Aviation Industrie. Unsere internationalen Klienten aus dem Airline- und Airport-Umfeld vertrauen auf unsere ausgezeichnete Branchenexpertise verbunden mit profundem Methodenwissen. Unsere Beratungsleistungen unterst\u00fctzen sie bei der Sicherung und St\u00e4rkung ihrer Wettbewerbssituation.<\/p>\n"
+            },
+            "de_at": {
+              "name": null,
+              "headline": null,
+              "introtext": null
+            },
+            "de_ch": {
+              "name": null,
+              "headline": null,
+              "introtext": null
+            },
+            "en": {
+              "name": "Introtext Consulting",
+              "headline": "About Company Consulting",
+              "introtext": "<p>In 25 years Company Consulting has become the go-to partner for solving problems, improving performance and gearing up for the future. It takes more than extensive industry expertise and experience to explain this kind of success. It takes constant innovation and a collaborative approach towards solving problems and realizing potentials. It starts by making our customers' challenges our challenges.<\/p>\n"
+            }
+          },
+          "type": "object",
+          "key": "Introtext Consulting",
+          "path": "\/Company Consulting\/Introtext\/",
+          "tags": [
+            20
+          ]
+        }
+      },
+      {
+        "_index": "data_dao",
+        "_type": "introtext",
+        "_id": "254",
+        "_score": 1.0,
+        "_source": {
+          "sortingpriority": 0,
+          "localized": {
+            "de": {
+              "name": "Introtext LGBS",
+              "headline": "\u00dcber Company Global Business Services",
+              "introtext": "<p>Die Company Global Business Services GmbH (LGBS) b\u00fcndelt administrative Aufgaben der Company Group und ist interner Dienstleister f\u00fcr standardisierte Prozesse in den Bereichen Finanzen, Revenue Accounting, Personal und Einkauf. Unser Ziel ist es, die internen Prozesse zu optimieren und nachhaltig Kosten zu senken. Wir \u00fcbernehmen die administrativen Aufgaben von mehr als 100 Unternehmenin der Company Group. Unsere Kunden unterst\u00fctzen wir in den vier Kernbereichen Finanzen, Einkauf, Personal und Revenue Accounting.<\/p>\n"
+            },
+            "de_at": {
+              "name": null,
+              "headline": null,
+              "introtext": null
+            },
+            "de_ch": {
+              "name": null,
+              "headline": null,
+              "introtext": null
+            },
+            "en": {
+              "name": "Introtext LGBS",
+              "headline": "About Company Global Business Services",
+              "introtext": "<div class=\"draggable slick-list\" style=\"min-height:98px\">\n<div class=\"slick-track\" style=\"opacity:1; width:4911px\">\n<div class=\"slick-active slick-current slick-element slick-slide\" style=\"left:0px; opacity:1; position:relative; top:0px; width:1637px; z-index:999\">\n<p>Company Global Business Services GmbH (LGBS) pools the Company Group\u2019s administrative duties and is an internal service provider for standardized processes in the fields of Finance, Revenue Accounting, Human Resources, and Purchasing. Our goal is to optimize internal processes and achieve lasting cost cuts. We carry out administrative tasks for more than 100 companies within the Company Group. We support our clients in the four core areas of Finance, Purchasing, Human Resources, and Revenue Accounting.<\/p>\n<\/div>\n<\/div>\n<\/div>\n"
+            }
+          },
+          "type": "object",
+          "key": "Introtext LGBS",
+          "path": "\/Company Global Business Services\/Introtext\/",
+          "tags": [
+            21
+          ]
+        }
+      },
+      {
+        "_index": "data_dao",
+        "_type": "introtext",
+        "_id": "260",
+        "_score": 1.0,
+        "_source": {
+          "sortingpriority": 0,
+          "localized": {
+            "de": {
+              "name": "Infotext ta.ts",
+              "headline": "\u00dcber ta.ts Travel Agency Technologies & Services",
+              "introtext": "<p>ta.ts - Travel Agency Technologies &amp; Services GmbH ist ein hundertprozentiges Tochterunternehmen der Company&nbsp;Group und Marktf\u00fchrer f\u00fcr Backoffice-Systeme f\u00fcr den deutschen Reisevertrieb. Wir entwickeln f\u00fcr unsere Kunden effiziente L\u00f6sungen f\u00fcr Buchhaltung, Controlling und Reporting. Wir verbinden diese mit ma\u00dfgeschneidertem Training und professioneller Beratung und sorgen f\u00fcr einen reibungslosen Betrieb unserer Systeme. Dar\u00fcber hinaus betreiben wir an&nbsp;drei deutschen Standorten die Company Reisem\u00e4rkte f\u00fcr Mitarbeiter der Company Group.<\/p>\n"
+            },
+            "de_at": {
+              "name": null,
+              "headline": null,
+              "introtext": null
+            },
+            "de_ch": {
+              "name": null,
+              "headline": null,
+              "introtext": null
+            },
+            "en": {
+              "name": "Introtext ta.ts",
+              "headline": "About ta.ts Travel Agency Technologies & Services",
+              "introtext": "<p>ta.ts - Travel Agency Technologies &amp; Services GmbH is a wholly owned subsidiary of the Company Group and market leader in back office systems for the German travel industry. We develop efficient accounting, controlling and reporting solutions for our customers. We combine this with custom-tailored training and professional consulting and ensure that our systems run smoothly. In addition, we operate the Company travel markets for the Group\u2019s employees at&nbsp;three locations in Germany.<\/p>\n"
+            }
+          },
+          "type": "object",
+          "key": "Intotext ta.ts Travel Agancy Technologies & Services",
+          "path": "\/ta.ts Travel Agency Technologies & Services\/Introtext\/",
+          "tags": [
+            31
+          ]
+        }
+      },
+      {
+        "_index": "data_dao",
+        "_type": "introtext",
+        "_id": "261",
+        "_score": 1.0,
+        "_source": {
+          "sortingpriority": 0,
+          "localized": {
+            "de": {
+              "name": "Introtext Seeheim",
+              "headline": "\u00dcber Company Seeheim",
+              "introtext": "<p>Das Tagungshotel Company Seeheim ist eines der modernsten Tagungshotels Deutschlands. In \u00fcber 480 Zimmern und mehr als 80 Veranstaltungsr\u00e4umen wohnen und lernen G\u00e4ste aus der ganzen Welt. Sie haben Lust auf eine Karriere in der Hotellerie, m\u00f6chten Verantwortung \u00fcbernehmen, denken gerne serviceorientiert und halten Ausschau nach einem abwechslungsreichen Aufgabengebiet? Dann sollten Sie sich im Tagungshotel Company Seeheim bewerben.<\/p>\n"
+            },
+            "de_at": {
+              "name": null,
+              "headline": null,
+              "introtext": null
+            },
+            "de_ch": {
+              "name": null,
+              "headline": null,
+              "introtext": null
+            },
+            "en": {
+              "name": "Introtext Seeheim",
+              "headline": "About Company Seeheim",
+              "introtext": "<p>The Company Seeheim conference hotel is one of Germany's most modern conference hotels. Guests from all over the world stay and learn in over 480 hotel and 80 conference rooms. Are you interested in a career in the hotel industry, do you want to take on responsibilities, are you service-oriented and looking for a versatile field of work? Then you should apply for a position at the Company Seeheim Conference Hotel.<\/p>\n"
+            }
+          },
+          "type": "object",
+          "key": "Introtext Seeheim",
+          "path": "\/Company Seeheim\/Introtext\/",
+          "tags": [
+            26
+          ]
+        }
+      },
+      {
+        "_index": "data_dao",
+        "_type": "introtext",
+        "_id": "263",
+        "_score": 1.0,
+        "_source": {
+          "sortingpriority": 0,
+          "localized": {
+            "de": {
+              "name": "Introtext SunExpress",
+              "headline": "\u00dcber SunExpress",
+              "introtext": "<p>Seit der Gr\u00fcndung 1989 als Gemeinschaftsunternehmen von Company und Turkish Airlines hat sich SunExpress die Position des Ferienspezialisten im gesamten europ\u00e4ischen Raum erarbeitet. Wir z\u00e4hlen zudem zu einer der gr\u00f6\u00dften Fluglinien im Verkehr zwischen Deutschland und der T\u00fcrkei. J\u00e4hrlich bef\u00f6rdern wir \u00fcber 9 Millionen Passagiere, unsere Heimatbasis befindet sich in Antalya an der T\u00fcrkischen Riviera. Der Firmensitz unseres 2011 gegr\u00fcndeten Tochterunternehmens SunExpress Deutschland GmbH befindet sich in Gateway Gardens am Frankfurter Flughafen.<\/p>\n"
+            },
+            "de_at": {
+              "name": null,
+              "headline": null,
+              "introtext": null
+            },
+            "de_ch": {
+              "name": null,
+              "headline": null,
+              "introtext": null
+            },
+            "en": {
+              "name": "Introtext SunExpress",
+              "headline": "About SunExpress",
+              "introtext": "<p>SunExpress was founded in October 1989 as a subsidiary of the two industry leading airlines Turkish Airlines and Company. Today, SunExpress carries around 9 million passengers per year. With its 28 years of experience and thus the long-term commitment in the traffic between the home markets of Turkey and Germany, the airline has acquired the reputation of the holiday specialist even beyond Turkey. The home base of SunExpress is in Antalya on the Turkish Riviera. The German branch office is located in Gateway Gardens near Frankfurt Airport, which is the base of SunExpress Deutschland GmbH, the German subsidiary of the company.<\/p>\n"
+            }
+          },
+          "type": "object",
+          "key": "Introtext SunExpress",
+          "path": "\/SunExpress\/Introtext\/",
+          "tags": [
+            30
+          ]
+        }
+      },
+      {
+        "_index": "data_dao",
+        "_type": "introtext",
+        "_id": "267",
+        "_score": 1.0,
+        "_source": {
+          "sortingpriority": 0,
+          "localized": {
+            "de": {
+              "name": "Introtext Miles & More",
+              "headline": "\u00dcber Miles & More",
+              "introtext": "<p>Die Miles &amp; More GmbH ist eine 100% Tochter der Deutschen Company AG, in der die weltweiten Aktivit\u00e4ten und Kompetenzen des Miles &amp; More Pr\u00e4miengesch\u00e4fts geb\u00fcndelt sind. Die Gesellschaft mit ca. 300 Mitarbeitern geh\u00f6rt bei Umsatz und Gewinn zu den wichtigsten Tochterunternehmen des Company Konzerns. Im Rahmen ihrer strategischen Positionierung verfolgt die Gesellschaft weiterhin eine sehr dynamische Entwicklung mit Wachstum im In- und Ausland.<\/p>\n"
+            },
+            "de_at": {
+              "name": null,
+              "headline": null,
+              "introtext": null
+            },
+            "de_ch": {
+              "name": null,
+              "headline": null,
+              "introtext": null
+            },
+            "en": {
+              "name": "Introtext Miles & More",
+              "headline": "About Miles & More",
+              "introtext": "<p>Miles &amp; More GmbH is a 100% subsidiary of Deutsche Company AG, in which the worldwide activities and competences of Miles &amp; More award business are bundled.<br \/>\nThe company is with its sales and profits and approximately 300 employees one of the most important subsidiaries of the Company Group. As part of its strategic positioning, the company continues to pursue a very dynamic development with growth at home and abroad.<\/p>\n"
+            }
+          },
+          "type": "object",
+          "key": "Introtext Miles & More",
+          "path": "\/Miles & More\/Introtext\/",
+          "tags": [
+            28
+          ]
+        }
+      },
+      {
+        "_index": "data_dao",
+        "_type": "introtext",
+        "_id": "276",
+        "_score": 1.0,
+        "_source": {
+          "sortingpriority": 0,
+          "localized": {
+            "de": {
+              "name": "Introtext Angewandte Informatik",
+              "headline": "Duales Studium Angewandte Informatik",
+              "introtext": "<p>Als Bachelor of Science (m\/w) Angewandte Informatik erwarten Sie faszinierende Aufgaben in den Bereichen Softwareentwicklung, Anwendungsberatung und \u2013betreuung oder Projektmanagement.<\/p>\n"
+            },
+            "de_at": {
+              "name": null,
+              "headline": null,
+              "introtext": null
+            },
+            "de_ch": {
+              "name": null,
+              "headline": null,
+              "introtext": null
+            },
+            "en": {
+              "name": "Introtext Angewandte Informatik",
+              "headline": "Dual study program Applied Informatics",
+              "introtext": "<p>As a Bachelor of Science in Applied Informatics, fascinating tasks await you in the areas of software development, application consulting and support or project management.<\/p>\n"
+            }
+          },
+          "type": "object",
+          "key": "Angewandte Informatik",
+          "path": "\/Company Group\/Berufsbilder Introtexte\/",
+          "tags": [
+            81
+          ]
+        }
+      },
+      {
+        "_index": "data_dao",
+        "_type": "introtext",
+        "_id": "282",
+        "_score": 1.0,
+        "_source": {
+          "sortingpriority": 0,
+          "localized": {
+            "de": {
+              "name": "Fachinformatiker f\u00fcr Systemintegration",
+              "headline": "Fachinformatiker\/-in f\u00fcr Systemintegration",
+              "introtext": "<p>Als Fachinformatiker\/-in f\u00fcr Systemintegration planen und konfigurieren Sie Netzwerkl\u00f6sungen, Sie installieren und verwalten Server und Clientsysteme. Sie f\u00fchren im Firmennetzwerk eigenverantwortlich Projekte durch und sorgen f\u00fcr die Beratung, Betreuung und Schulung der User.<\/p>\n"
+            },
+            "de_at": {
+              "name": null,
+              "headline": null,
+              "introtext": null
+            },
+            "de_ch": {
+              "name": null,
+              "headline": null,
+              "introtext": null
+            },
+            "en": {
+              "name": "IT Specialist for System Integration",
+              "headline": "IT Specialist for System Integration",
+              "introtext": "<p>As an IT Specialist for System Integration you will plan and configure network solutions, install and administer server and client systems. You will be responsible for independent projects within the corporate network, while also advising, supporting and training the users.<\/p>\n"
+            }
+          },
+          "type": "object",
+          "key": "Fachinformatiker f\u00fcr Systemintegration",
+          "path": "\/Company Group\/Berufsbilder Introtexte\/",
+          "tags": [
+            97
+          ]
+        }
+      },
+      {
+        "_index": "data_dao",
+        "_type": "introtext",
+        "_id": "284",
+        "_score": 1.0,
+        "_source": {
+          "sortingpriority": 0,
+          "localized": {
+            "de": {
+              "name": "Fachkraft f\u00fcr Lebensmitteltechnik",
+              "headline": "Fachkraft f\u00fcr Lebensmitteltechnik",
+              "introtext": "<p>Als Fachkraft f\u00fcr Lebensmitteltechnik sind Sie in unterschiedlichen Bereichen der Herstellung hochwertiger Tiefk\u00fchlmahlzeiten t\u00e4tig. Sie sorgen f\u00fcr die vorschriftsm\u00e4\u00dfige Lagerung der Rohstoffe, arbeiten in der Produktentwicklung bei der Entwicklung neuer Mahlzeiten, unterst\u00fctzen die Betriebstechnik und sorgen zudem w\u00e4hrend der gesamten Zeit f\u00fcr eine gleichbleibend hohe Qualit\u00e4t der Produkte.<\/p>\n"
+            },
+            "de_at": {
+              "name": null,
+              "headline": null,
+              "introtext": null
+            },
+            "de_ch": {
+              "name": null,
+              "headline": null,
+              "introtext": null
+            },
+            "en": {
+              "name": "Specialist in Food Technology",
+              "headline": "Specialist in Food Technology",
+              "introtext": "<p>As a Specialist in Food Technology you will prepare high quality frozen meals in a variety of production areas. You will ensure that raw materials are properly stored, work in product development creating new meals, assist the operational technicians and throughout you will help ensure that the products keep their high quality standard.<\/p>\n"
+            }
+          },
+          "type": "object",
+          "key": "Fachkraft f\u00fcr Lebensmitteltechnik",
+          "path": "\/Company Group\/Berufsbilder Introtexte\/",
+          "tags": [
+            101
+          ]
+        }
+      },
+      {
+        "_index": "data_dao",
+        "_type": "introtext",
+        "_id": "288",
+        "_score": 1.0,
+        "_source": {
+          "sortingpriority": 0,
+          "localized": {
+            "de": {
+              "name": "Flugger\u00e4tmechaniker\/-in Fertigungstechnik ",
+              "headline": "Flugger\u00e4tmechaniker\/-in Fertigungstechnik ",
+              "introtext": "<p>Als Flugger\u00e4tmechaniker\/-in der Fachrichtung Fertigungstechnik sind Sie daf\u00fcr verantwortlich, dass unsere Flugzeuge immer einsatzbereit und sicher sind. Sie sind f\u00fcr die Kontrolle, Reparatur und Neuanfertigung von Bauteilen der Flugzeugstruktur verantwortlich. Das Instandhalten der Kabineneinrichtung geh\u00f6rt dabei ebenso zu Ihren Aufgaben wie das Anfertigen von Kabinenausstattungen nach Kundenwunsch.<\/p>\n"
+            },
+            "de_at": {
+              "name": null,
+              "headline": null,
+              "introtext": null
+            },
+            "de_ch": {
+              "name": null,
+              "headline": null,
+              "introtext": null
+            },
+            "en": {
+              "name": "Aircraft Mechanic, Production Engineering",
+              "headline": "Aircraft Mechanic, Production Engineering",
+              "introtext": "<p>As an Aircraft Mechanic in the Production Engineering Technology field, you are responsible for our aircrafts\u2019 constant readiness and their safety. You repair and produce spare parts for the tail unit, wings and airframe, and you know every flick of the wrist when installing landing flaps, doors or cabin equipment.<\/p>\n"
+            }
+          },
+          "type": "object",
+          "key": "Flugger\u00e4tmechaniker Fertigungstechnik",
+          "path": "\/Company Group\/Berufsbilder Introtexte\/",
+          "tags": [
+            86
+          ]
+        }
+      },
+      {
+        "_index": "data_dao",
+        "_type": "introtext",
+        "_id": "290",
+        "_score": 1.0,
+        "_source": {
+          "sortingpriority": 0,
+          "localized": {
+            "de": {
+              "name": "Flugger\u00e4tmechaniker\/-in Triebwerkstechnik",
+              "headline": "Flugger\u00e4tmechaniker\/-in Triebwerkstechnik",
+              "introtext": "<p>Als Flugger\u00e4tmechaniker\/-in der Fachrichtung Triebwerkstechnik sind Sie mit Ihrem Team f\u00fcr die Montage der Triebwerke verantwortlich und sorgen daf\u00fcr, dass sie stets gewartet, repariert und einsatzbereit sind.<\/p>\n"
+            },
+            "de_at": {
+              "name": null,
+              "headline": null,
+              "introtext": null
+            },
+            "de_ch": {
+              "name": null,
+              "headline": null,
+              "introtext": null
+            },
+            "en": {
+              "name": "Aircraft Mechanic, Engines",
+              "headline": "Aircraft Mechanic, Engines",
+              "introtext": "<p>As an Aircraft Mechanic (m\/f) in the field of Engine Technology, you and your team are responsible for engine mounting, and ensure that the engines are maintained, repaired and ready for operation at all times.<\/p>\n"
+            }
+          },
+          "type": "object",
+          "key": "Flugger\u00e4tmechaniker Triebwerkstechnik",
+          "path": "\/Company Group\/Berufsbilder Introtexte\/",
+          "tags": [
+            87
+          ]
+        }
+      },
+      {
+        "_index": "data_dao",
+        "_type": "introtext",
+        "_id": "291",
+        "_score": 1.0,
+        "_source": {
+          "sortingpriority": 0,
+          "localized": {
+            "de": {
+              "name": "Duales Studium Flugzeugbau",
+              "headline": "Duales Studium Flugzeugbau",
+              "introtext": "<p>Als Bachelor of Engineering (m\/w) Flugzeugbau arbeiten Sie in unterschiedlichen Bereichen des Flugzeugbaus: Beispielsweise&nbsp;entwickeln Sie Bauteile und planen die \u00dcberholung oder Instandhaltung von Flugzeugen.<\/p>\n"
+            },
+            "de_at": {
+              "name": null,
+              "headline": null,
+              "introtext": null
+            },
+            "de_ch": {
+              "name": null,
+              "headline": null,
+              "introtext": null
+            },
+            "en": {
+              "name": "Dual Study program Aircraft Construction",
+              "headline": "Dual Study program Aircraft Construction",
+              "introtext": "<p>As a Bachelor of Engineering (m\/f) in Aircraft Construction, you will work in a variety of different aircraft construction departments: For example you will develop components and plan aircraft overhaul or maintenance.<\/p>\n"
+            }
+          },
+          "type": "object",
+          "key": "Flugzeugbau",
+          "path": "\/Company Group\/Berufsbilder Introtexte\/",
+          "tags": [
+            76
+          ]
+        }
+      },
+      {
+        "_index": "data_dao",
+        "_type": "introtext",
+        "_id": "294",
+        "_score": 1.0,
+        "_source": {
+          "sortingpriority": 0,
+          "localized": {
+            "de": {
+              "name": "Industriekaufmann\/-frau",
+              "headline": "Industriekaufmann\/-frau",
+              "introtext": "<p>Als Industriekaufmann\/-frau haben Sie vielseitige Einsatzm\u00f6glichkeiten: Sie k\u00f6nnen in den Bereichen Einkauf, Personalwesen, Marketing, Buchhaltung, Produktentwicklung oder Kundenservice t\u00e4tig sein.<\/p>\n"
+            },
+            "de_at": {
+              "name": null,
+              "headline": null,
+              "introtext": null
+            },
+            "de_ch": {
+              "name": null,
+              "headline": null,
+              "introtext": null
+            },
+            "en": {
+              "name": "Industrial Management Assistant ",
+              "headline": "Industrial Management Assistant ",
+              "introtext": "<p>As an Industrial Management assistant (m\/f), your potential workplace covers a variety of areas: You can use your knowledge and experience in procurement, human resources, marketing, accounting, product development or customer service.<\/p>\n"
+            }
+          },
+          "type": "object",
+          "key": "Industriekaufmann",
+          "path": "\/Company Group\/Berufsbilder Introtexte\/",
+          "tags": [
+            72
+          ]
+        }
+      },
+      {
+        "_index": "data_dao",
+        "_type": "introtext",
+        "_id": "136",
+        "_score": 1.0,
+        "_source": {
+          "sortingpriority": 0,
+          "localized": {
+            "de": {
+              "name": "LSG Group Introtext",
+              "headline": "\u00dcber LSG Group",
+              "introtext": "<p>Die LSG Group ist der weltweit f\u00fchrende Anbieter eines l\u00fcckenlosen Produkt- und Dienstleistungsportfolios rund um den Bordservice. Der klassische Caterer LSG Sky Chefs wird durch den Bordserviceequipment-Experten SPIRIANT, den Logistik-Experten SkylogistiX, den Spezialisten f\u00fcr Bordverkauf und Bordunterhaltungsprogramme Retail inMotion und den Hersteller von innovativen Verpackungen Oakfield Farms Solutions erg\u00e4nzt.<\/p>\n"
+            },
+            "de_at": {
+              "name": null,
+              "headline": null,
+              "introtext": null
+            },
+            "de_ch": {
+              "name": null,
+              "headline": null,
+              "introtext": null
+            },
+            "en": {
+              "name": "LSG Group Introtext",
+              "headline": "About LSG Group",
+              "introtext": "<p>The LSG Group is the world's leading provider of a complete product and service portfolio for in-flight service. The classic caterer LSG Sky Chefs is complemented by the on-board equipment expert SPIRIANT, the logistics expert SkylogistiX, the specialist in on-board sales and on-board entertainment programs Retail inMotion and the manufacturer of innovative packaging Oakfield Farms Solutions.<\/p>\n"
+            }
+          },
+          "type": "object",
+          "key": "LSG Group Introtext",
+          "path": "\/LSG Group\/Introtext\/",
+          "tags": [
+            8
+          ]
+        }
+      },
+      {
+        "_index": "data_dao",
+        "_type": "introtext",
+        "_id": "137",
+        "_score": 1.0,
+        "_source": {
+          "sortingpriority": 0,
+          "localized": {
+            "de": {
+              "name": "Company Cargo Introtext",
+              "headline": "\u00dcber Company Cargo",
+              "introtext": "<p>Die Company Cargo AG ist eine der gr\u00f6\u00dften Frachtfluggesellschaften der Welt und sorgt t\u00e4glich daf\u00fcr, dass Waren und G\u00fcter sicher und fristgerecht ihren Bestimmungsort erreichen \u2013 egal, an welcher Ecke der Welt. Unsere Mitarbeiterinnen und Mitarbeiter machen wir zu Experten im Bereich Logistik und Frachttransport und bieten ihnen optimale Karriereperspektiven.<\/p>\n"
+            },
+            "de_at": {
+              "name": null,
+              "headline": null,
+              "introtext": null
+            },
+            "de_ch": {
+              "name": null,
+              "headline": null,
+              "introtext": null
+            },
+            "en": {
+              "name": "Company Cargo Introtext",
+              "headline": "About Company Cargo",
+              "introtext": "<p>Company Cargo AG is one of the largest air cargo transport companies in the world and ensures daily that goods and commodities reach their destination safely and on time \u2013 no matter in what corner of the world. We make our employees experts in the fields of logistics and freight transport and offer them ideal career prospects.<\/p>\n"
+            }
+          },
+          "type": "object",
+          "key": "Company Cargo Introtext",
+          "path": "\/Company Cargo\/Introtext\/",
+          "tags": [
+            11
+          ]
+        }
+      },
+      {
+        "_index": "data_dao",
+        "_type": "introtext",
+        "_id": "139",
+        "_score": 1.0,
+        "_source": {
+          "sortingpriority": 0,
+          "localized": {
+            "de": {
+              "name": "Company InTouch Introtext",
+              "headline": "\u00dcber Company InTouch",
+              "introtext": "<p>Exzellenter Kundenservice, Entwicklung innovativer Dienstleistungen, internationale Teams \u2013 daf\u00fcr steht Company InTouch. Weltweit betreiben wir ein Netzwerk aus sieben Kundenservice-Centern an attraktiven Standorten. Unsere mehrsprachigen und multikulturellen Teams bieten 5-Star-Service f\u00fcr die Passagiere der Company Group. Neben klassischen Dienstleistungen f\u00fcr Endkunden entwickeln wir innovative sowie kosteng\u00fcnstige L\u00f6sungen f\u00fcr Gesch\u00e4ftskunden aus der Airline- und Reisebranche.<\/p>\n"
+            },
+            "de_at": {
+              "name": null,
+              "headline": null,
+              "introtext": null
+            },
+            "de_ch": {
+              "name": null,
+              "headline": null,
+              "introtext": null
+            },
+            "en": {
+              "name": "Company InTouch Introtext",
+              "headline": "About Company InTouch",
+              "introtext": "<p>Excellent customer service, development of innovative services, international teams - that's what Company InTouch stands for. We operate a network of seven customer service centers in attractive locations worldwide. Our multilingual and multicultural teams offer 5-star service for the passengers of the Company Group. In addition to traditional services for end customers, we develop innovative and cost-effective solutions for business customers in the airline and travel industry.<\/p>\n"
+            }
+          },
+          "type": "object",
+          "key": "Company InTouch Introtext",
+          "path": "\/Company InTouch\/Introtext\/",
+          "tags": [
+            12
+          ]
+        }
+      },
+      {
+        "_index": "data_dao",
+        "_type": "introtext",
+        "_id": "141",
+        "_score": 1.0,
+        "_source": {
+          "sortingpriority": 0,
+          "localized": {
+            "de": {
+              "name": "Company Airlines Introtext",
+              "headline": "\u00dcber Company",
+              "introtext": "<p>Mit unserem Kerngesch\u00e4ft, der Passagierbef\u00f6rderung, verbinden wir Menschen auf der ganzen Welt. Wir sind weltweit f\u00fcr herausragende Qualit\u00e4t und exzellenten Service bekannt und decken mit unserem Streckennetz \u00fcber 200 Destinationen in ca. 80 L\u00e4ndern ab. Unsere Hauptdrehkreuze befinden sich in Frankfurt\/Main und M\u00fcnchen.<\/p>\n"
+            },
+            "de_at": {
+              "name": null,
+              "headline": null,
+              "introtext": null
+            },
+            "de_ch": {
+              "name": null,
+              "headline": null,
+              "introtext": null
+            },
+            "en": {
+              "name": "Company Airlines Introtext",
+              "headline": "About Company ",
+              "introtext": "<p>We connect people all over the world with our core business: passenger transportation. We are known throughout the world for our outstanding quality and excellent service. Our route network covers more than 200 destinations in some 80 countries with our main hubs located in Frankfurt am Main and Munich.<\/p>\n"
+            }
+          },
+          "type": "object",
+          "key": "Company Airlines Introtext",
+          "path": "\/Company Airlines\/Introtext\/",
+          "tags": [
+            23
+          ]
+        }
+      },
+      {
+        "_index": "data_dao",
+        "_type": "introtext",
+        "_id": "143",
+        "_score": 1.0,
+        "_source": {
+          "sortingpriority": 0,
+          "localized": {
+            "de": {
+              "name": "Company Technik Introtext",
+              "headline": "\u00dcber Company Technik",
+              "introtext": "<p>Company Technik ist der weltweit f\u00fchrende Anbieter f\u00fcr Wartungs-, Reparatur- und \u00dcberholungsservices sowie Modifikationen in der zivilen Luftfahrtindustrie. Mit ma\u00dfgeschneiderten Instandhaltungsprogrammen und fortschrittlichsten Reparaturverfahren sorgen wir f\u00fcr die Zuverl\u00e4ssigkeit und Verf\u00fcgbarkeit der Flugzeugflotten unserer Kunden. Mit mehr als 26.000 Mitarbeitern und \u00fcber 30 internationalen Tochterunternehmen bietet die Company Technik Gruppe in den Gesch\u00e4ftsfeldern Wartung, \u00dcberholung, Ger\u00e4teversorgung, Triebwerke, Fahrwerke, VIP Services, Innovation und Digital Fleet Solutions rund 800 Kunden auf der ganzen Welt einen Komplett-Service von Dienstleistungen rund um die Flugzeugtechnik.<\/p>\n"
+            },
+            "de_at": {
+              "name": null,
+              "headline": null,
+              "introtext": null
+            },
+            "de_ch": {
+              "name": null,
+              "headline": null,
+              "introtext": null
+            },
+            "en": {
+              "name": "Company Technik Introtext",
+              "headline": "About Company Technik",
+              "introtext": "<p>Company Technik is the world's leading provider of maintenance, repair and overhaul services as well as modifications in the civil aviation industry. With tailor-made maintenance programs and the most advanced repair procedures, we ensure the reliability and availability of our customers' aircraft fleets. With more than 26,000 employees and over 30 international subsidiaries, the Company Technik Group offers a complete service-related service to around 800 customers around the world in its Maintenance, Overhaul, Equipment, Engines, Chassis, VIP Services, Innovation and Digital Fleet Solutions business units around the aircraft technology.<\/p>\n"
+            }
+          },
+          "type": "object",
+          "key": "Company Technik Introtext",
+          "path": "\/Company Technik\/Introtext\/",
+          "tags": [
+            13
+          ]
+        }
+      },
+      {
+        "_index": "data_dao",
+        "_type": "introtext",
+        "_id": "144",
+        "_score": 1.0,
+        "_source": {
+          "sortingpriority": 0,
+          "localized": {
+            "de": {
+              "name": "SWISS Introtext",
+              "headline": "\u00dcber SWISS",
+              "introtext": "<p>Swiss International Air Lines (SWISS) ist die Fluggesellschaft der Schweiz. Wir bedienen ab Z\u00fcrich und Genf weltweit \u00fcber 100 Destinationen in 43 L\u00e4ndern. Mit einer Flotte von 90 Flugzeugen bef\u00f6rdern wir j\u00e4hrlich rund 16.9 Millionen Passagiere. Als Fluggesellschaft der Schweiz stehen wir f\u00fcr deren traditionellen Werte und verpflichten uns zu h\u00f6chster Produkt- und Servicequalit\u00e4t. Unsere \u00fcberschaubare Gr\u00f6sse erm\u00f6glicht es uns, n\u00e4her an unseren G\u00e4sten zu sein und sie individueller zu betreuen.<\/p>\n"
+            },
+            "de_at": {
+              "name": null,
+              "headline": null,
+              "introtext": null
+            },
+            "de_ch": {
+              "name": null,
+              "headline": null,
+              "introtext": null
+            },
+            "en": {
+              "name": "SWISS Introtext",
+              "headline": "About SWISS",
+              "introtext": "<p>Swiss International Air Lines (SWISS) is the airline of Switzerland, serving over 100 destinations in 43 countries from Zurich and Geneva and carrying approximately 16.9 million passengers a year with its 90-aircraft fleet. As the airline of Switzerland, we embodiy the country\u2019s traditional values, and are committed to delivering the highest product and service quality. With our manageable medium size, we are also optimally equipped to remain as close as possible to our customers and meet their individual needs.<\/p>\n"
+            }
+          },
+          "type": "object",
+          "key": "SWISS Introtext",
+          "path": "\/SWISS\/Introtext\/",
+          "tags": [
+            5
+          ]
+        }
+      },
+      {
+        "_index": "data_dao",
+        "_type": "video",
+        "_id": "195",
+        "_score": 1.0,
+        "_source": {
+          "sortingpriority": 0,
+          "localized": {
+            "de": {
+              "video_name": "SWISS Cabin Crew | SCHWEIZERISCH",
+              "video_description": null
+            },
+            "de_at": {
+              "video_name": null,
+              "video_description": null
+            },
+            "de_ch": {
+              "video_name": null,
+              "video_description": null
+            },
+            "en": {
+              "video_name": "SWISS Cabin Crew | SWISS  ",
+              "video_description": null
+            }
+          },
+          "video_content": {
+            "type": "youtube",
+            "data": "huFjrPXWOP0",
+            "poster": "",
+            "title": "",
+            "description": "",
+            "thumbnail_path": ""
+          },
+          "type": "object",
+          "key": "SWISS Cabin Crew | SWISS",
+          "path": "\/SWISS\/Videos\/",
+          "tags": [
+            14,
+            5,
+            41,
+            35,
+            36,
+            33,
+            34,
+            48,
+            49
+          ]
+        }
+      },
+      {
+        "_index": "data_dao",
+        "_type": "video",
+        "_id": "197",
+        "_score": 1.0,
+        "_source": {
+          "sortingpriority": 0,
+          "localized": {
+            "de": {
+              "video_name": "Hallo. Ich bin SWISS 'neue Boeing 777 - in 360 \u00b0 | SCHWEIZERISCH",
+              "video_description": null
+            },
+            "de_at": {
+              "video_name": null,
+              "video_description": null
+            },
+            "de_ch": {
+              "video_name": null,
+              "video_description": null
+            },
+            "en": {
+              "video_name": "Hello. I\u2019m SWISS's new Boeing 777 - in 360\u00b0 | SWISS  ",
+              "video_description": null
+            }
+          },
+          "video_content": {
+            "type": "youtube",
+            "data": "oKzGFFFp7dk",
+            "poster": "",
+            "title": "",
+            "description": "",
+            "thumbnail_path": ""
+          },
+          "type": "object",
+          "key": "Hello. I\u2019m SWISS's new Boeing 777 - in 360\u00b0 | SWISS",
+          "path": "\/SWISS\/Videos\/",
+          "tags": [
+            5,
+            42
+          ]
+        }
+      },
+      {
+        "_index": "data_dao",
+        "_type": "introtext",
+        "_id": "295",
+        "_score": 1.0,
+        "_source": {
+          "sortingpriority": 0,
+          "localized": {
+            "de": {
+              "name": "Informatikkaufmann\/-frau",
+              "headline": "Informatikkaufmann\/-frau",
+              "introtext": "<p>Als Informatikkaufmann\/-frau beschaffen Sie Informations- und telekommunikationstechnische Systeme und verwalten diese. Sie ermitteln Benutzeranforderungen, planen und erstellen Anwendungsl\u00f6sungen und sorgen f\u00fcr die Beratung und Schulung der Anwender. Zudem stellen Sie die Wirtschaftlichkeit und kunden- oder nutzerorientierte Organisation von Projekten sicher.<\/p>\n"
+            },
+            "de_at": {
+              "name": null,
+              "headline": null,
+              "introtext": null
+            },
+            "de_ch": {
+              "name": null,
+              "headline": null,
+              "introtext": null
+            },
+            "en": {
+              "name": "Informatics Specialist",
+              "headline": "Informatics Specialist",
+              "introtext": "<p>As an Informatics Specialist (m\/f), you will procure information and telecommunications systems and manage them. You identify user requirements, plan and build application solutions and provide advice and training to users. In addition, you ensure the efficiency and customer or user-oriented organization of projects.<\/p>\n"
+            }
+          },
+          "type": "object",
+          "key": "Informatikkaufmann",
+          "path": "\/Company Group\/Berufsbilder Introtexte\/",
+          "tags": [
+            84
+          ]
+        }
+      },
+      {
+        "_index": "data_dao",
+        "_type": "locales",
+        "_id": "298",
+        "_score": 1.0,
+        "_source": {
+          "sortingpriority": 0,
+          "localized": {
+            "de": {
+              "text": "Be Company Karriere-Blog"
+            },
+            "de_at": {
+              "text": null
+            },
+            "de_ch": {
+              "text": null
+            },
+            "en": {
+              "text": "Be Company Career Blog"
+            }
+          },
+          "type": "object",
+          "key": "blogTitle",
+          "path": "\/2 - locales\/statictexts\/blog-widget\/",
+          "tags": [
+            108
+          ]
+        }
+      },
+      {
+        "_index": "data_dao",
+        "_type": "locales",
+        "_id": "301",
+        "_score": 1.0,
+        "_source": {
+          "sortingpriority": 0,
+          "localized": {
+            "de": {
+              "text": "Filter entfernen"
+            },
+            "de_at": {
+              "text": null
+            },
+            "de_ch": {
+              "text": null
+            },
+            "en": {
+              "text": "Remove filter"
+            }
+          },
+          "type": "object",
+          "key": "removeFilter",
+          "path": "\/2 - locales\/statictexts\/filters\/",
+          "tags": [
+            108
+          ]
+        }
+      },
+      {
+        "_index": "data_dao",
+        "_type": "locales",
+        "_id": "303",
+        "_score": 1.0,
+        "_source": {
+          "sortingpriority": 0,
+          "localized": {
+            "de": {
+              "text": "Kontakt"
+            },
+            "de_at": {
+              "text": null
+            },
+            "de_ch": {
+              "text": null
+            },
+            "en": {
+              "text": "Contact"
+            }
+          },
+          "type": "object",
+          "key": "contact",
+          "path": "\/2 - locales\/statictexts\/footer\/",
+          "tags": [
+            108
+          ]
+        }
+      },
+      {
+        "_index": "data_dao",
+        "_type": "locales",
+        "_id": "304",
+        "_score": 1.0,
+        "_source": {
+          "sortingpriority": 0,
+          "localized": {
+            "de": {
+              "text": "Datenschutz"
+            },
+            "de_at": {
+              "text": null
+            },
+            "de_ch": {
+              "text": null
+            },
+            "en": {
+              "text": "Data Protection"
+            }
+          },
+          "type": "object",
+          "key": "dataProtection",
+          "path": "\/2 - locales\/statictexts\/footer\/",
+          "tags": [
+            108
+          ]
+        }
+      },
+      {
+        "_index": "data_dao",
+        "_type": "locales",
+        "_id": "305",
+        "_score": 1.0,
+        "_source": {
+          "sortingpriority": 0,
+          "localized": {
+            "de": {
+              "text": "FAQs"
+            },
+            "de_at": {
+              "text": null
+            },
+            "de_ch": {
+              "text": null
+            },
+            "en": {
+              "text": "FAQs"
+            }
+          },
+          "type": "object",
+          "key": "faqs",
+          "path": "\/2 - locales\/statictexts\/footer\/",
+          "tags": [
+            108
+          ]
+        }
+      },
+      {
+        "_index": "data_dao",
+        "_type": "locales",
+        "_id": "306",
+        "_score": 1.0,
+        "_source": {
+          "sortingpriority": 0,
+          "localized": {
+            "de": {
+              "text": "Impressum"
+            },
+            "de_at": {
+              "text": null
+            },
+            "de_ch": {
+              "text": null
+            },
+            "en": {
+              "text": "Imprints"
+            }
+          },
+          "type": "object",
+          "key": "imprint",
+          "path": "\/2 - locales\/statictexts\/footer\/",
+          "tags": [
+            108
+          ]
+        }
+      },
+      {
+        "_index": "data_dao",
+        "_type": "locales",
+        "_id": "313",
+        "_score": 1.0,
+        "_source": {
+          "sortingpriority": 0,
+          "localized": {
+            "de": {
+              "text": "Unternehmen"
+            },
+            "de_at": {
+              "text": null
+            },
+            "de_ch": {
+              "text": null
+            },
+            "en": {
+              "text": "Company"
+            }
+          },
+          "type": "object",
+          "key": "company",
+          "path": "\/2 - locales\/statictexts\/job-search-widget\/",
+          "tags": [
+            108
+          ]
+        }
+      },
+      {
+        "_index": "data_dao",
+        "_type": "locales",
+        "_id": "314",
+        "_score": 1.0,
+        "_source": {
+          "sortingpriority": 0,
+          "localized": {
+            "de": {
+              "text": "Jobangebot"
+            },
+            "de_at": {
+              "text": null
+            },
+            "de_ch": {
+              "text": null
+            },
+            "en": {
+              "text": "Job offer"
+            }
+          },
+          "type": "object",
+          "key": "jobOffer",
+          "path": "\/2 - locales\/statictexts\/job-search-widget\/",
+          "tags": [
+            108
+          ]
+        }
+      },
+      {
+        "_index": "data_dao",
+        "_type": "locales",
+        "_id": "318",
+        "_score": 1.0,
+        "_source": {
+          "sortingpriority": 0,
+          "localized": {
+            "de": {
+              "text": "Videos"
+            },
+            "de_at": {
+              "text": null
+            },
+            "de_ch": {
+              "text": null
+            },
+            "en": {
+              "text": "Videos"
+            }
+          },
+          "type": "object",
+          "key": "videoTitle",
+          "path": "\/2 - locales\/statictexts\/video-widget\/",
+          "tags": [
+            108
+          ]
+        }
+      },
+      {
+        "_index": "data_dao",
+        "_type": "locales",
+        "_id": "323",
+        "_score": 1.0,
+        "_source": {
+          "sortingpriority": 0,
+          "localized": {
+            "de": {
+              "text": "Zur Startseite"
+            },
+            "de_at": {
+              "text": null
+            },
+            "de_ch": {
+              "text": null
+            },
+            "en": {
+              "text": "Go to homepage"
+            }
+          },
+          "type": "object",
+          "key": "goToHomepage",
+          "path": "\/2 - locales\/statictexts\/header\/",
+          "tags": [
+            108
+          ]
+        }
+      },
+      {
+        "_index": "data_dao",
+        "_type": "introtext",
+        "_id": "331",
+        "_score": 1.0,
+        "_source": {
+          "sortingpriority": 0,
+          "localized": {
+            "de": {
+              "name": "Introtext International Business",
+              "headline": "Duales Studium International Business",
+              "introtext": "<p>Als Bachelor of Arts (m\/w) in International Business erwarten Sie&nbsp;anspruchsvolle Aufgaben in den Bereichen Marketing, Controlling oder Finanz- und Rechnungswesen.<\/p>\n"
+            },
+            "de_at": {
+              "name": null,
+              "headline": null,
+              "introtext": null
+            },
+            "de_ch": {
+              "name": null,
+              "headline": null,
+              "introtext": null
+            },
+            "en": {
+              "name": "Introtext International Business",
+              "headline": "Dual study program International Business",
+              "introtext": "<p>As a Bachelor of Arts (m\/f) in International Business you can expect challenging tasks in the areas of marketing, controlling or finances and accounting.<\/p>\n"
+            }
+          },
+          "type": "object",
+          "key": "International Business",
+          "path": "\/Company Group\/Berufsbilder Introtexte\/",
+          "tags": [
+            67
+          ]
+        }
+      },
+      {
+        "_index": "data_dao",
+        "_type": "company",
+        "_id": "334",
+        "_score": 1.0,
+        "_source": {
+          "sortingpriority": 0,
+          "company_name": "LEOS",
+          "type": "object",
+          "key": "LEOS",
+          "path": "\/3 - Company Objects\/",
+          "tags": [
+            16
+          ]
+        }
+      },
+      {
+        "_index": "data_dao",
+        "_type": "company",
+        "_id": "335",
+        "_score": 1.0,
+        "_source": {
+          "sortingpriority": 0,
+          "company_name": "LSG Group",
+          "type": "object",
+          "key": "LSG-group",
+          "path": "\/3 - Company Objects\/",
+          "tags": [
+            8
+          ]
+        }
+      },
+      {
+        "_index": "data_dao",
+        "_type": "company",
+        "_id": "336",
+        "_score": 1.0,
+        "_source": {
+          "sortingpriority": 0,
+          "company_name": "Company Airlines",
+          "type": "object",
+          "key": "Company-Airlines",
+          "path": "\/3 - Company Objects\/",
+          "tags": [
+            23
+          ]
+        }
+      },
+      {
+        "_index": "data_dao",
+        "_type": "company",
+        "_id": "337",
+        "_score": 1.0,
+        "_source": {
+          "sortingpriority": 0,
+          "company_name": "Company AirPlus",
+          "type": "object",
+          "key": "Company-AirPlus",
+          "path": "\/3 - Company Objects\/",
+          "tags": [
+            18
+          ]
+        }
+      },
+      {
+        "_index": "data_dao",
+        "_type": "company",
+        "_id": "342",
+        "_score": 1.0,
+        "_source": {
+          "sortingpriority": 0,
+          "company_name": "Company Global Business Services",
+          "type": "object",
+          "key": "Company-Global-Business-Services",
+          "path": "\/3 - Company Objects\/",
+          "tags": [
+            21
+          ]
+        }
+      },
+      {
+        "_index": "data_dao",
+        "_type": "company",
+        "_id": "343",
+        "_score": 1.0,
+        "_source": {
+          "sortingpriority": 0,
+          "company_name": "Company Group",
+          "type": "object",
+          "key": "Company-Group",
+          "path": "\/3 - Company Objects\/",
+          "tags": [
+            14
+          ]
+        }
+      },
+      {
+        "_index": "data_dao",
+        "_type": "company",
+        "_id": "345",
+        "_score": 1.0,
+        "_source": {
+          "sortingpriority": 0,
+          "company_name": "Company InTouch",
+          "type": "object",
+          "key": "Company-InTouch",
+          "path": "\/3 - Company Objects\/",
+          "tags": [
+            12
+          ]
+        }
+      },
+      {
+        "_index": "data_dao",
+        "_type": "company",
+        "_id": "348",
+        "_score": 1.0,
+        "_source": {
+          "sortingpriority": 0,
+          "company_name": "Company Technik",
+          "type": "object",
+          "key": "Company-Technik",
+          "path": "\/3 - Company Objects\/",
+          "tags": [
+            13
+          ]
+        }
+      },
+      {
+        "_index": "data_dao",
+        "_type": "company",
+        "_id": "349",
+        "_score": 1.0,
+        "_source": {
+          "sortingpriority": 0,
+          "company_name": "Company Technik AERO Alzey",
+          "type": "object",
+          "key": "Company-Technik-AERO-Alzey",
+          "path": "\/3 - Company Objects\/",
+          "tags": [
+            25
+          ]
+        }
+      },
+      {
+        "_index": "data_dao",
+        "_type": "company",
+        "_id": "351",
+        "_score": 1.0,
+        "_source": {
+          "sortingpriority": 0,
+          "company_name": "Lumics",
+          "type": "object",
+          "key": "Lumics",
+          "path": "\/3 - Company Objects\/",
+          "tags": [
+            27
+          ]
+        }
+      },
+      {
+        "_index": "data_dao",
+        "_type": "introtext",
+        "_id": "358",
+        "_score": 1.0,
+        "_source": {
+          "sortingpriority": 0,
+          "localized": {
+            "de": {
+              "name": "Introtext Kaufmann \/-frau f\u00fcr Versicherungen und Finanzen",
+              "headline": "Kaufmann \/-frau f\u00fcr Versicherungen und Finanzen",
+              "introtext": "<p>Als Kaufmann oder Kauffrau f\u00fcr Versicherungen und Finanzen arbeiten Sie in den Bereichen Versicherung von Luftfahrtrisiken sowie Versicherung von Transport - und Firmenrisiken oder beraten Konzernmitarbeiter in Fragen rund um ihren Versicherungsschutz und die betriebliche Altersvorsorge.<\/p>\n"
+            },
+            "de_at": {
+              "name": null,
+              "headline": null,
+              "introtext": null
+            },
+            "de_ch": {
+              "name": null,
+              "headline": null,
+              "introtext": null
+            },
+            "en": {
+              "name": "Introtext Specialist for Insurance and Finances",
+              "headline": "Specialist for Insurance and Finances",
+              "introtext": "<p>As a Specialist for Insurance and Finances (m\/f), you will work in such areas as aviation risk insurance, transport and enterprise risk insurance or advising Group employees in their insurance coverage and company pension scheme.<\/p>\n"
+            }
+          },
+          "type": "object",
+          "key": "Kaufmann f\u00fcr Versicherungen und Finanzen",
+          "path": "\/Company Group\/Berufsbilder Introtexte\/",
+          "tags": [
+            79
+          ]
+        }
+      },
+      {
+        "_index": "data_dao",
+        "_type": "introtext",
+        "_id": "124",
+        "_score": 1.0,
+        "_source": {
+          "sortingpriority": 10,
+          "localized": {
+            "de": {
+              "name": "Flugbegleiter\/-in",
+              "headline": "Flugbegleiter\/-in",
+              "introtext": "<p>Flugbegleiter\/-in ist ein faszinierender, vielseitiger und verantwortungsvoller Beruf.<br \/>\nEs erwartet Sie ein abwechslungsreiches Aufgabengebiet mit t\u00e4glich neuen Herausforderungen: Kontakt mit Passagieren aus aller Welt, Zusammenarbeit in st\u00e4ndig wechselnden Teams, Aufenthalte in pulsierenden Metropolen und an exotischen Destinationen.<\/p>\n"
+            },
+            "de_at": {
+              "name": null,
+              "headline": null,
+              "introtext": null
+            },
+            "de_ch": {
+              "name": null,
+              "headline": null,
+              "introtext": null
+            },
+            "en": {
+              "name": "Air Stewardess",
+              "headline": "Flight Attendant",
+              "introtext": "<p>Flight Attendant is a fascinating, versatile and responsible profession.<br \/>\nYou can expect a varied range of tasks with daily new challenges: contact with passengers from all over the world, cooperation in constantly changing teams, stays in vibrant metropolises and at exotic destinations.<\/p>\n"
+            }
+          },
+          "type": "object",
+          "key": "Flugbegleiter\/-in",
+          "path": "\/Company Group\/Berufsbilder Introtexte\/",
+          "tags": [
+            14,
+            41
+          ]
+        }
+      },
+      {
+        "_index": "data_dao",
+        "_type": "introtext",
+        "_id": "125",
+        "_score": 1.0,
+        "_source": {
+          "sortingpriority": 10,
+          "localized": {
+            "de": {
+              "name": "Pilot\/-in",
+              "headline": "Pilot\/-in",
+              "introtext": "<p>Berufspilotinnen und -piloten sind heute Entscheidungs- und Verantwortungstr\u00e4ger in einem hoch technisierten Umfeld. Sie sind Manager an einem ebenso ungew\u00f6hnlichen wie faszinierenden Arbeitsplatz und \u00fcbernehmen t\u00e4glich Verantwortung f\u00fcr eine gro\u00dfe Zahl von Menschen, denen sie berufliche und private Mobilit\u00e4t erm\u00f6glichen. Erfahren Sie mehr \u00fcber die M\u00f6glichkeit, Ihren Traum vom Fliegen zu realisieren: <a href=\"http:\/\/www.european-flight-academy.com\/\"><strong>http:\/\/www.european-flight-academy.com\/<\/strong><\/a><\/p>\n"
+            },
+            "de_at": {
+              "name": null,
+              "headline": null,
+              "introtext": null
+            },
+            "de_ch": {
+              "name": null,
+              "headline": null,
+              "introtext": null
+            },
+            "en": {
+              "name": "Pilot\/-in",
+              "headline": "Pilot",
+              "introtext": "<p>Today professional pilots (m\/f) are decision-makers and responsible persons in a highly technical environment. They are managers in an unusual as well as fascinating workplace and take on daily responsibility for a large number of people, to whom they enable professional and private mobility.<br \/>\nFind out more about how you can make your dream of flying come true:<br \/>\nhttp:\/\/www.european-flight-academy.com\/<\/p>\n"
+            }
+          },
+          "type": "object",
+          "key": "Pilot\/-in",
+          "path": "\/Company Group\/Berufsbilder Introtexte\/",
+          "tags": [
+            14,
+            42
+          ]
+        }
+      },
+      {
+        "_index": "data_dao",
+        "_type": "introtext",
+        "_id": "126",
+        "_score": 1.0,
+        "_source": {
+          "sortingpriority": 0,
+          "localized": {
+            "de": {
+              "name": "Kaufmann\/-frau f\u00fcr B\u00fcromanagement",
+              "headline": null,
+              "introtext": "<p>In unseren modernen B\u00fcros warten spannende Herausforderungen auf Sie. Wir bieten Arbeitspl\u00e4tze f\u00fcr Organisationstalente mit Offenheit und Kompetenz.<\/p>\n\n<p>Als Kaufmann oder Kauffrau f\u00fcr B\u00fcromanagement \u00fcbernehmen Sie T\u00e4tigkeiten im Sekretariat und in der Sachbearbeitung, arbeiten eigenverantwortlich an Projekten mit, organisieren Dienstreisen und Meetings, verfassen Texte und bereiten Pr\u00e4sentationen vor.<\/p>\n"
+            },
+            "de_at": {
+              "name": null,
+              "headline": null,
+              "introtext": null
+            },
+            "de_ch": {
+              "name": null,
+              "headline": null,
+              "introtext": null
+            },
+            "en": {
+              "name": "Businessman \/ woman for office management",
+              "headline": null,
+              "introtext": "<p>Exciting challenges await you in our modern offices. We offer jobs for organizational talents with openness and competence.<\/p>\n\n<p>As a businessman or clerk for office management, you take over secretarial and clerical work, work independently on projects, organize business trips and meetings, write texts and prepare presentations.<\/p>\n"
+            }
+          },
+          "type": "object",
+          "key": "Kaufmann\/-frau f\u00fcr B\u00fcromanagement",
+          "path": "\/Company Group\/Berufsbilder Introtexte\/",
+          "tags": [
+            66
+          ]
+        }
+      },
+      {
+        "_index": "data_dao",
+        "_type": "introtext",
+        "_id": "127",
+        "_score": 1.0,
+        "_source": {
+          "sortingpriority": 0,
+          "localized": {
+            "de": {
+              "name": "Flugger\u00e4temechaniker\/-in Instandhaltungstechnik",
+              "headline": "Flugger\u00e4temechaniker\/-in Instandhaltungstechnik",
+              "introtext": "<p>Als Flugger\u00e4tmechaniker\/-in der Fachrichtung Instandhaltungstechnik sorgen Sie f\u00fcr Sicherheit. Im Team arbeiten Sie im Flugzeug-Check oder erledigen Wartungs- und \u00dcberholungsarbeiten. Sie sorgen daf\u00fcr, dass auch das kleinste Teil unserer Maschinen so perfekt funktioniert wie unsere Kunden es von einer f\u00fchrenden Fluglinie erwarten.<\/p>\n"
+            },
+            "de_at": {
+              "name": null,
+              "headline": null,
+              "introtext": null
+            },
+            "de_ch": {
+              "name": null,
+              "headline": null,
+              "introtext": null
+            },
+            "en": {
+              "name": "Aircraft mechanic, Maintenance",
+              "headline": "Aircraft mechanic, Maintenance",
+              "introtext": "<p>As an aircraft mechanic (m\/f) specializing in maintenance technology, you ensure safety. As a team, you work in an airplane check or carry out maintenance and overhaul work. They ensure that even the smallest part of our machines function as perfectly as our customers expect from a leading airline.<\/p>\n"
+            }
+          },
+          "type": "object",
+          "key": "Flugger\u00e4temechaniker\/-in Instandhaltung",
+          "path": "\/Company Group\/Berufsbilder Introtexte\/",
+          "tags": [
+            85
+          ]
+        }
+      },
+      {
+        "_index": "data_dao",
+        "_type": "introtext",
+        "_id": "134",
+        "_score": 1.0,
+        "_source": {
+          "sortingpriority": 0,
+          "localized": {
+            "de": {
+              "name": "Austrian Airlines Introtext",
+              "headline": "\u00dcber Austrian Airlines",
+              "introtext": "<p>Austrian Airlines ist \u00d6sterreichs gr\u00f6\u00dfte Airline, die \u00fcber 11 Millionen Kunden pro Jahr zu 130 Destinationen weltweit bringt. Mit ca. 6.300 Mitarbeitern\/-innen aus \u00fcber 60 Nationen verfolgen wir ein gemeinsames Ziel \u2013 unseren Flugg\u00e4sten ein unvergessliches Reiseerlebnis zu bereiten. Als Mitglied der Company Group sind wir Teil des gr\u00f6\u00dften und erfolgreichsten Airlineverbundes Europas und agieren zukunftsorientiert in einem dynamischen Wettbewerbsumfeld. Um unsere Marktposition weiter auszubauen, suchen wir nach engagierten Pers\u00f6nlichkeiten, die unser Wachstum und unsere Zukunft aktiv mitgestalten wollen.<\/p>\n"
+            },
+            "de_at": {
+              "name": null,
+              "headline": null,
+              "introtext": null
+            },
+            "de_ch": {
+              "name": null,
+              "headline": null,
+              "introtext": null
+            },
+            "en": {
+              "name": "Austrian Airlines Introtext",
+              "headline": "About Austrian Airlines",
+              "introtext": "<p>Austrian Airlines is Austria's largest airline, bringing over 11 million customers a year to 130 destinations worldwide. With approximately 6,300 employees from over 60 nations, we pursue a common goal - to provide our passengers with an unforgettable travel experience. As a member of the Company Group, we are part of the largest and most successful airline network in Europe and act in a forward-looking manner in a dynamic competitive environment. In order to further expand our market position, we are looking for committed personalities who want to actively shape our growth and our future.<\/p>\n"
+            }
+          },
+          "type": "object",
+          "key": "Austrian Airlines Introtext",
+          "path": "\/Austrian Airlines\/Introtext\/",
+          "tags": [
+            6
+          ]
+        }
+      },
+      {
+        "_index": "data_dao",
+        "_type": "video",
+        "_id": "100",
+        "_score": 1.0,
+        "_source": {
+          "sortingpriority": 0,
+          "localized": {
+            "de": {
+              "video_name": "Was Company Technik als Arbeitgeber auszeichnet  ",
+              "video_description": null
+            },
+            "de_at": {
+              "video_name": null,
+              "video_description": null
+            },
+            "de_ch": {
+              "video_name": null,
+              "video_description": null
+            },
+            "en": {
+              "video_name": "What distinguishes Company Technik as an employer",
+              "video_description": null
+            }
+          },
+          "video_content": {
+            "type": "youtube",
+            "data": "GMXAU2XxbrM",
+            "poster": "",
+            "title": "",
+            "description": "",
+            "thumbnail_path": ""
+          },
+          "type": "object",
+          "key": "Was Company Technik als Arbeitgeber auszeichnet",
+          "path": "\/Company Technik\/Videos\/",
+          "tags": [
+            13
+          ]
+        }
+      },
+      {
+        "_index": "data_dao",
+        "_type": "video",
+        "_id": "103",
+        "_score": 1.0,
+        "_source": {
+          "sortingpriority": 0,
+          "localized": {
+            "de": {
+              "video_name": "Praktikanten bei Company Technik - Videotagebuch  ",
+              "video_description": null
+            },
+            "de_at": {
+              "video_name": null,
+              "video_description": null
+            },
+            "de_ch": {
+              "video_name": null,
+              "video_description": null
+            },
+            "en": {
+              "video_name": "Interns at Company Technik - video diary",
+              "video_description": null
+            }
+          },
+          "video_content": {
+            "type": "youtube",
+            "data": "SVtDAQT4IZ0",
+            "poster": "",
+            "title": "",
+            "description": "",
+            "thumbnail_path": ""
+          },
+          "type": "object",
+          "key": "Praktikanten bei Company Technik - Videotagebuch",
+          "path": "\/Company Technik\/Videos\/",
+          "tags": [
+            13,
+            39,
+            34,
+            43
+          ]
+        }
+      },
+      {
+        "_index": "data_dao",
+        "_type": "video",
+        "_id": "112",
+        "_score": 1.0,
+        "_source": {
+          "sortingpriority": 0,
+          "localized": {
+            "de": {
+              "video_name": "Azubis stellen ihre Ausbildung vor: Fachkraft f\u00fcr Lagerlogistik bei Company Technik  ",
+              "video_description": null
+            },
+            "de_at": {
+              "video_name": null,
+              "video_description": null
+            },
+            "de_ch": {
+              "video_name": null,
+              "video_description": null
+            },
+            "en": {
+              "video_name": "Apprentices introduce their training: Warehouse logistics specialist at Company Technik",
+              "video_description": null
+            }
+          },
+          "video_content": {
+            "type": "youtube",
+            "data": "X-dVyO5gAmg",
+            "poster": "",
+            "title": "",
+            "description": "",
+            "thumbnail_path": ""
+          },
+          "type": "object",
+          "key": "Azubis stellen ihre Ausbildung vor: Fachkraft f\u00fcr Lagerlogistik bei Company Technik",
+          "path": "\/Company Technik\/Videos\/",
+          "tags": [
+            13,
+            37,
+            33,
+            47,
+            73
+          ]
+        }
+      },
+      {
+        "_index": "data_dao",
+        "_type": "video",
+        "_id": "86",
+        "_score": 1.0,
+        "_source": {
+          "sortingpriority": 0,
+          "localized": {
+            "de": {
+              "video_name": "Die Technik Azubis: Oberfl\u00e4chenbeschichter\/-in  ",
+              "video_description": null
+            },
+            "de_at": {
+              "video_name": null,
+              "video_description": null
+            },
+            "de_ch": {
+              "video_name": null,
+              "video_description": null
+            },
+            "en": {
+              "video_name": "The technique trainees: surface coater",
+              "video_description": null
+            }
+          },
+          "video_content": {
+            "type": "youtube",
+            "data": "Y_z9sxuDw1w",
+            "poster": "",
+            "title": "",
+            "description": "",
+            "thumbnail_path": ""
+          },
+          "type": "object",
+          "key": "Die Technik Azubis: Oberfl\u00e4chenbeschichter\/-in",
+          "path": "\/Company Technik\/Videos\/",
+          "tags": [
+            13,
+            37,
+            33,
+            43,
+            90
+          ]
+        }
+      },
+      {
+        "_index": "data_dao",
+        "_type": "video",
+        "_id": "87",
+        "_score": 1.0,
+        "_source": {
+          "sortingpriority": 0,
+          "localized": {
+            "de": {
+              "video_name": "Die Technik Azubis: Flugger\u00e4tmechaniker\/-in Fertigungstechnik  ",
+              "video_description": null
+            },
+            "de_at": {
+              "video_name": null,
+              "video_description": null
+            },
+            "de_ch": {
+              "video_name": null,
+              "video_description": null
+            },
+            "en": {
+              "video_name": "The technology Trainees: aircraft mechanic Production technology",
+              "video_description": null
+            }
+          },
+          "video_content": {
+            "type": "youtube",
+            "data": "-_7u14NakYs",
+            "poster": "",
+            "title": "",
+            "description": "",
+            "thumbnail_path": ""
+          },
+          "type": "object",
+          "key": "Die Technik Azubis: Flugger\u00e4tmechaniker\/-in Fertigungstechnik",
+          "path": "\/Company Technik\/Videos\/",
+          "tags": [
+            13,
+            37,
+            33,
+            43,
+            86
+          ]
+        }
+      },
+      {
+        "_index": "data_dao",
+        "_type": "video",
+        "_id": "90",
+        "_score": 1.0,
+        "_source": {
+          "sortingpriority": 0,
+          "localized": {
+            "de": {
+              "video_name": "Die Technik Azubis: Flugger\u00e4telektroniker\/-in  ",
+              "video_description": null
+            },
+            "de_at": {
+              "video_name": null,
+              "video_description": null
+            },
+            "de_ch": {
+              "video_name": null,
+              "video_description": null
+            },
+            "en": {
+              "video_name": "The technology apprentices: aircraft electronics technician",
+              "video_description": null
+            }
+          },
+          "video_content": {
+            "type": "youtube",
+            "data": "aMls2yONhdU",
+            "poster": "",
+            "title": "",
+            "description": "",
+            "thumbnail_path": ""
+          },
+          "type": "object",
+          "key": "Die Technik Azubis: Flugger\u00e4telektroniker\/-in",
+          "path": "\/Company Technik\/Videos\/",
+          "tags": [
+            13,
+            37,
+            33,
+            43,
+            88
+          ]
+        }
+      },
+      {
+        "_index": "data_dao",
+        "_type": "video",
+        "_id": "93",
+        "_score": 1.0,
+        "_source": {
+          "sortingpriority": 0,
+          "localized": {
+            "de": {
+              "video_name": "Serien-Trailer \"Die Technik Azubis\": Jeder Tag ist was Besonderes  ",
+              "video_description": null
+            },
+            "de_at": {
+              "video_name": null,
+              "video_description": null
+            },
+            "de_ch": {
+              "video_name": null,
+              "video_description": null
+            },
+            "en": {
+              "video_name": "Series Trailer \"The Technology Trainees\": Every day is something special",
+              "video_description": null
+            }
+          },
+          "video_content": {
+            "type": "youtube",
+            "data": "0eJfvzUlWJ4",
+            "poster": "",
+            "title": "",
+            "description": "",
+            "thumbnail_path": ""
+          },
+          "type": "object",
+          "key": "Serien-Trailer \"Die Technik Azubis\": Jeder Tag ist was Besonderes",
+          "path": "\/Company Technik\/Videos\/",
+          "tags": [
+            13,
+            37,
+            33,
+            43
+          ]
+        }
+      },
+      {
+        "_index": "data_dao",
+        "_type": "video",
+        "_id": "94",
+        "_score": 1.0,
+        "_source": {
+          "sortingpriority": 0,
+          "localized": {
+            "de": {
+              "video_name": "Das Entdeckerprogramm - sei inspiriert",
+              "video_description": null
+            },
+            "de_at": {
+              "video_name": null,
+              "video_description": null
+            },
+            "de_ch": {
+              "video_name": null,
+              "video_description": null
+            },
+            "en": {
+              "video_name": "The explorers program - be inspired  ",
+              "video_description": null
+            }
+          },
+          "video_content": {
+            "type": "youtube",
+            "data": "lChO6PNuXug",
+            "poster": "",
+            "title": "",
+            "description": "",
+            "thumbnail_path": ""
+          },
+          "type": "object",
+          "key": "The explorers program - be inspired",
+          "path": "\/Company Group\/Videos\/",
+          "tags": [
+            14,
+            103,
+            35,
+            34
+          ]
+        }
+      },
+      {
+        "_index": "data_dao",
+        "_type": "video",
+        "_id": "95",
+        "_score": 1.0,
+        "_source": {
+          "sortingpriority": 0,
+          "localized": {
+            "de": {
+              "video_name": "Praktikanten bei Company Technik - Videotagebuch von Achim  ",
+              "video_description": null
+            },
+            "de_at": {
+              "video_name": null,
+              "video_description": null
+            },
+            "de_ch": {
+              "video_name": null,
+              "video_description": null
+            },
+            "en": {
+              "video_name": "Interns at Company Technik - video diary from Achim",
+              "video_description": null
+            }
+          },
+          "video_content": {
+            "type": "youtube",
+            "data": "jExYSKx4f8",
+            "poster": "",
+            "title": "",
+            "description": "",
+            "thumbnail_path": ""
+          },
+          "type": "object",
+          "key": "Praktikanten bei Company Technik - Videotagebuch von Achim",
+          "path": "\/Company Technik\/Videos\/",
+          "tags": [
+            13,
+            39,
+            34,
+            43
+          ]
+        }
+      },
+      {
+        "_index": "data_dao",
+        "_type": "video",
+        "_id": "78",
+        "_score": 1.0,
+        "_source": {
+          "sortingpriority": 0,
+          "localized": {
+            "de": {
+              "video_name": "Praktikanten bei Company Technik - Videotagebuch von Sina  ",
+              "video_description": null
+            },
+            "de_at": {
+              "video_name": null,
+              "video_description": null
+            },
+            "de_ch": {
+              "video_name": null,
+              "video_description": null
+            },
+            "en": {
+              "video_name": "Interns at Company Technik - Video diary from Sina",
+              "video_description": null
+            }
+          },
+          "video_content": {
+            "type": "youtube",
+            "data": "dOlE8A6nwbc",
+            "poster": "",
+            "title": "",
+            "description": "",
+            "thumbnail_path": ""
+          },
+          "type": "object",
+          "key": "Praktikanten bei Company Technik - Videotagebuch von Sina",
+          "path": "\/Company Technik\/Videos\/",
+          "tags": [
+            13,
+            39,
+            34,
+            43
+          ]
+        }
+      },
+      {
+        "_index": "data_dao",
+        "_type": "video",
+        "_id": "81",
+        "_score": 1.0,
+        "_source": {
+          "sortingpriority": 0,
+          "localized": {
+            "de": {
+              "video_name": "Company InTouch: Treten Sie mit Nergis ... in Istanbul in Kontakt",
+              "video_description": null
+            },
+            "de_at": {
+              "video_name": null,
+              "video_description": null
+            },
+            "de_ch": {
+              "video_name": null,
+              "video_description": null
+            },
+            "en": {
+              "video_name": "Company InTouch: Get in touch with Nergis ... in Istanbul  ",
+              "video_description": null
+            }
+          },
+          "video_content": {
+            "type": "youtube",
+            "data": "Aw9lH1E1O00",
+            "poster": "",
+            "title": "",
+            "description": "",
+            "thumbnail_path": ""
+          },
+          "type": "object",
+          "key": "Company InTouch: Get in touch with Nergis ... in Istanbul",
+          "path": "\/Company InTouch\/Videos\/",
+          "tags": [
+            12,
+            103,
+            35,
+            36,
+            33,
+            34,
+            48,
+            49
+          ]
+        }
+      },
+      {
+        "_index": "data_dao",
+        "_type": "introtext",
+        "_id": "360",
+        "_score": 1.0,
+        "_source": {
+          "sortingpriority": 0,
+          "localized": {
+            "de": {
+              "name": "Introtext Koch",
+              "headline": "Koch \/ K\u00f6chin",
+              "introtext": "<p>Als Koch oder K\u00f6chin bereiten Sie mit moderner K\u00fcchentechnik&nbsp;internationale Speisen zu, sorgen f\u00fcr Hygiene, Qualit\u00e4t und die Warendisposition.<\/p>\n"
+            },
+            "de_at": {
+              "name": null,
+              "headline": null,
+              "introtext": null
+            },
+            "de_ch": {
+              "name": null,
+              "headline": null,
+              "introtext": null
+            },
+            "en": {
+              "name": "Introtext Cook",
+              "headline": "Cook",
+              "introtext": "<p>As a Cook (m\/f), you will prepare international meals with state-of-the-art kitchen technology, while ensuring hygiene and quality standards, and material planning.<\/p>\n"
+            }
+          },
+          "type": "object",
+          "key": "Koch",
+          "path": "\/Company Group\/Berufsbilder Introtexte\/",
+          "tags": [
+            94
+          ]
+        }
+      },
+      {
+        "_index": "data_dao",
+        "_type": "introtext",
+        "_id": "361",
+        "_score": 1.0,
+        "_source": {
+          "sortingpriority": 0,
+          "localized": {
+            "de": {
+              "name": "Introtext Duales Studium: Luftfahrtsystemtechnik und -management",
+              "headline": "Duales Studium: Luftfahrtsystemtechnik und -management",
+              "introtext": "<p>Als Bachelor of Engineeering (m\/w) der Fachrichtung Luftfahrtsystemtechnik und -management k\u00f6nnen Sie in verschiedenen Bereichen der Wartung, Instandhaltung und Reparatur sowie in der Arbeitsvorbereitung t\u00e4tig werden.<\/p>\n"
+            },
+            "de_at": {
+              "name": null,
+              "headline": null,
+              "introtext": null
+            },
+            "de_ch": {
+              "name": null,
+              "headline": null,
+              "introtext": null
+            },
+            "en": {
+              "name": "Introtext Aviation Systems Technology and Management",
+              "headline": "Dual Study program Aviation Systems Technology and Management",
+              "introtext": "<p>As a Bachelor of Engineering (m\/f) in Aviation Systems Technology and Management you will work in work preparation or maintenance, overhaul and repairs.<\/p>\n"
+            }
+          },
+          "type": "object",
+          "key": "Luftfahrtsystemtechnik und -management",
+          "path": "\/Company Group\/Berufsbilder Introtexte\/",
+          "tags": [
+            69
+          ]
+        }
+      },
+      {
+        "_index": "data_dao",
+        "_type": "introtext",
+        "_id": "362",
+        "_score": 1.0,
+        "_source": {
+          "sortingpriority": 0,
+          "localized": {
+            "de": {
+              "name": "Introtext Luftverkehrsmanagement",
+              "headline": "Duales Studium Luftverkehrsmanagement",
+              "introtext": "<p>Als Bachelor of Arts (m\/w) in Luftverkehrsmanagement sind Sie Experte f\u00fcr betriebswirtschaftliche und logistische Prozesse im Luftverkehr. Sie kennen das vielseitige unternehmerische Geschehen hinter den Kulissen einer Airline in Theorie und Praxis setzen hierbei Ihre organisatorischen, planerischen und betriebswirtschaftlichen F\u00e4higkeiten ein.<\/p>\n"
+            },
+            "de_at": {
+              "name": null,
+              "headline": null,
+              "introtext": null
+            },
+            "de_ch": {
+              "name": null,
+              "headline": null,
+              "introtext": null
+            },
+            "en": {
+              "name": "Introtext Air Transport Management",
+              "headline": "Dual study program Air Transport Management",
+              "introtext": "<p>As a Bachelor of Arts (m\/f) in Air Transport Management you are an expert for business and logistical processes in aviation You are familiar with the entrepreneurial activities behind the scenes of an airline in theory and practice, using your organisational, planning and business management skills.<\/p>\n"
+            }
+          },
+          "type": "object",
+          "key": "Luftverkehrsmanagement",
+          "path": "\/Company Group\/Berufsbilder Introtexte\/",
+          "tags": [
+            64
+          ]
+        }
+      },
+      {
+        "_index": "data_dao",
+        "_type": "introtext",
+        "_id": "363",
+        "_score": 1.0,
+        "_source": {
+          "sortingpriority": 0,
+          "localized": {
+            "de": {
+              "name": "Introtext Maschinenbau",
+              "headline": "Duales Studium Maschinenbau",
+              "introtext": "<p>Als Bachelor of Science (m\/w) in Maschinenbau arbeiten Sie in verschiedenen Bereichen der Flugzeugwartung, Instandhaltung und Reparatur.<\/p>\n"
+            },
+            "de_at": {
+              "name": null,
+              "headline": null,
+              "introtext": null
+            },
+            "de_ch": {
+              "name": null,
+              "headline": null,
+              "introtext": null
+            },
+            "en": {
+              "name": "Introtext Mechanical Engineering",
+              "headline": "Dual study program Mechanical Engineering",
+              "introtext": "<p>As a Bachelor of Science (m\/f) in Mechanical Engineering you will work in various areas of aircraft maintenance and repair.<\/p>\n"
+            }
+          },
+          "type": "object",
+          "key": "Maschinenbau",
+          "path": "\/Company Group\/Berufsbilder Introtexte\/",
+          "tags": [
+            74
+          ]
+        }
+      },
+      {
+        "_index": "data_dao",
+        "_type": "introtext",
+        "_id": "364",
+        "_score": 1.0,
+        "_source": {
+          "sortingpriority": 0,
+          "localized": {
+            "de": {
+              "name": "Introtext Mechatronik",
+              "headline": "Duales Studium Mechatronik",
+              "introtext": "<p>Als&nbsp;Bachelor of&nbsp;Science (m\/w) in Mechatronik arbeiten Sie in vielf\u00e4ltigen Ingenieurbereichen: In der Arbeitsvorbereitung, Wartung, Instandhaltung oder Reparatur unserer Flugzeugflotte.<\/p>\n"
+            },
+            "de_at": {
+              "name": null,
+              "headline": null,
+              "introtext": null
+            },
+            "de_ch": {
+              "name": null,
+              "headline": null,
+              "introtext": null
+            },
+            "en": {
+              "name": "Introtext Mechatronics Engineering",
+              "headline": "Dual study program Mechatronics Engineering",
+              "introtext": "<p>As a Bachelor of Science (m\/f) in Mechatronics Engineering you will work in a variety of engineering departments: in work preparation, maintenance, overhaul or repairing our fleet of aircraft.<\/p>\n"
+            }
+          },
+          "type": "object",
+          "key": "Mechatronik",
+          "path": "\/Company Group\/Berufsbilder Introtexte\/",
+          "tags": [
+            71
+          ]
+        }
+      },
+      {
+        "_index": "data_dao",
+        "_type": "introtext",
+        "_id": "365",
+        "_score": 1.0,
+        "_source": {
+          "sortingpriority": 0,
+          "localized": {
+            "de": {
+              "name": "Introtext Medizinische Fachangestellte",
+              "headline": "Medizinische\/-r Fachangestellte\/-r",
+              "introtext": "<p>Als Medizinische\/-r Fachangestellte\/-r (m\/w)&nbsp;tragen Sie dazu bei, die Gesundheit unserer Mitarbeiter und Mitarbeiterinnen innerhalb unseres Unternehmens aufrechtzuerhalten. Sie f\u00fchren medizinisch-technische Untersuchungen durch und erledigen den \u00e4rztlichen Schriftverkehr.<\/p>\n"
+            },
+            "de_at": {
+              "name": null,
+              "headline": null,
+              "introtext": null
+            },
+            "de_ch": {
+              "name": null,
+              "headline": null,
+              "introtext": null
+            },
+            "en": {
+              "name": "Introtext Physician's Assistant",
+              "headline": "Physician's Assistant",
+              "introtext": "<p>As a Physician's Assistant (m\/f), you will help safeguard the health of our company\u2019s employees. You will carry our medical-technical tests and handle physician\u2019s correspondence.<\/p>\n"
+            }
+          },
+          "type": "object",
+          "key": "Medizinischer Fachangestellter",
+          "path": "\/Company Group\/Berufsbilder Introtexte\/",
+          "tags": [
+            98
+          ]
+        }
+      },
+      {
+        "_index": "data_dao",
+        "_type": "introtext",
+        "_id": "366",
+        "_score": 1.0,
+        "_source": {
+          "sortingpriority": 0,
+          "localized": {
+            "de": {
+              "name": "Introtext Oberfl\u00e4chenbeschichter",
+              "headline": "Oberfl\u00e4chenbeschichter\/-in",
+              "introtext": "<p>Als Oberfl\u00e4chenbeschichter\/-in sind Sie zust\u00e4ndig f\u00fcr die Veredelung aller mechanischen Bauteile aus Fahrwerk oder Triebwerk mit Schichten von Chrom, Cadmium, Silber oder Nickel. Bei Ihrer Arbeit in unserem Galvanikbetrieb ber\u00fccksichtigen Sie h\u00f6chste Anforderung hinsichtlich Umweltvertr\u00e4glichkeit und Qualit\u00e4t.<\/p>\n"
+            },
+            "de_at": {
+              "name": null,
+              "headline": null,
+              "introtext": null
+            },
+            "de_ch": {
+              "name": null,
+              "headline": null,
+              "introtext": null
+            },
+            "en": {
+              "name": "Introtext Electroplater",
+              "headline": "Electroplater",
+              "introtext": "<p>As an Electroplater (m\/f), you are responsible for the refining of all the mechanical parts in the landing gear and engines, coating them with chrome, cadmium, silver or nickel. And in our galvanic shop, you will also learn to be taken into account the highest demands pertaining to environmental and quality requirements.<\/p>\n"
+            }
+          },
+          "type": "object",
+          "key": "Oberfl\u00e4chenbeschichter",
+          "path": "\/Company Group\/Berufsbilder Introtexte\/",
+          "tags": [
+            90
+          ]
+        }
+      },
+      {
+        "_index": "data_dao",
+        "_type": "introtext",
+        "_id": "368",
+        "_score": 1.0,
+        "_source": {
+          "sortingpriority": 0,
+          "localized": {
+            "de": {
+              "name": "Introtext ProTeam",
+              "headline": "ProTeam - go shape the future",
+              "introtext": "<p>Do you have big ideas? Are you prepared to enter the Company world? Are you ready for 18 months that will change your life? And do you have the courage to completely rethink our corporate culture? \u2013 Then <a class=\"external-link-new-window\" href=\"https:\/\/proteam.whatever.com\/\" target=\"_blank\" title=\"Opens external link in new window\">discover ProTeam<\/a>!<\/p>\n"
+            },
+            "de_at": {
+              "name": null,
+              "headline": null,
+              "introtext": null
+            },
+            "de_ch": {
+              "name": null,
+              "headline": null,
+              "introtext": null
+            },
+            "en": {
+              "name": "Introtext ProTeam",
+              "headline": "ProTeam - go shape the future",
+              "introtext": "<p>Do you have big ideas? Are you prepared to enter the Company world? Are you ready for 18 months that will change your life? And do you have the courage to completely rethink our corporate culture? \u2013 Then <a class=\"external-link-new-window\" href=\"https:\/\/proteam.whatever.com\/\" target=\"_blank\" title=\"Opens external link in new window\">discover ProTeam<\/a>!<\/p>\n"
+            }
+          },
+          "type": "object",
+          "key": "ProTeam",
+          "path": "\/Company Group\/Berufsbilder Introtexte\/",
+          "tags": [
+            62
+          ]
+        }
+      },
+      {
+        "_index": "data_dao",
+        "_type": "introtext",
+        "_id": "370",
+        "_score": 1.0,
+        "_source": {
+          "sortingpriority": 0,
+          "localized": {
+            "de": {
+              "name": "Introtext Service Agent Gep\u00e4ckermittlung",
+              "headline": "Service Agent Gep\u00e4ckermittlung",
+              "introtext": "<p><br \/>\nZu den Aufgaben des Service Agents (m\/w) Gep\u00e4ckermittlung z\u00e4hlen die Aufnahme der Schadens- und Verlustmeldungen sowie die umfassende Information und Beratung der G\u00e4ste. Bei allen Unregelm\u00e4\u00dfigkeiten mit dem Gep\u00e4ck sorgt er f\u00fcr einen schnellen, zuverl\u00e4ssigen und jederzeit freundlichen Service f\u00fcr unsere G\u00e4ste.<\/p>\n"
+            },
+            "de_at": {
+              "name": null,
+              "headline": null,
+              "introtext": null
+            },
+            "de_ch": {
+              "name": null,
+              "headline": null,
+              "introtext": null
+            },
+            "en": {
+              "name": "Introtext Service Agent Lost and Found",
+              "headline": "Service Agent Lost and Found",
+              "introtext": "<p>A Service Agent's Lost &amp; Found (m\/f) tasks include registering reports of damage and losses as well as informing and advising our guests. For all baggage irregularities, the agents ensure that our guests always receive quick, dependable and friendly service.<\/p>\n"
+            }
+          },
+          "type": "object",
+          "key": "Service Agent Gep\u00e4ckermittlung",
+          "path": "\/Company Group\/Berufsbilder Introtexte\/",
+          "tags": [
+            54
+          ]
+        }
+      },
+      {
+        "_index": "data_dao",
+        "_type": "introtext",
+        "_id": "371",
+        "_score": 1.0,
+        "_source": {
+          "sortingpriority": 0,
+          "localized": {
+            "de": {
+              "name": "Introtext Service Agent Transfer und Ticketing",
+              "headline": "Service Agent Transfer und Ticketing",
+              "introtext": "<p>Die Service Professionals (m\/w) Transfer und Ticketing bieten einen kompletten Service rund ums Ticket: Sie besch\u00e4ftigen sich mit Umbuchungen f\u00fcr Flugg\u00e4ste, die ihre Reisepl\u00e4ne unerwartet \u00e4ndern m\u00fcssen. Sie bearbeiten die Tickets entsprechend, besorgen Ersatzdokumente, erstellen neue Flugscheine und helfen so, einen reibungslosen Ablauf f\u00fcr die Kunden zu gew\u00e4hrleisten.<br \/>\n<br \/>\n&nbsp;<\/p>\n"
+            },
+            "de_at": {
+              "name": null,
+              "headline": null,
+              "introtext": null
+            },
+            "de_ch": {
+              "name": null,
+              "headline": null,
+              "introtext": null
+            },
+            "en": {
+              "name": "Introtext Service Agent Transfer and Ticketing",
+              "headline": "Service Agent Transfer and Ticketing",
+              "introtext": "<p>The Service Professionals (m\/f) Transfer and Ticketing offer comprehensive ticketing services: They deal with rebooking passengers who have had to unexpectedly change their travel plans. They process the tickets accordingly, procure alternative documents, issue new tickets, and therefore help to ensure smooth processing for the customers.<\/p>\n"
+            }
+          },
+          "type": "object",
+          "key": "Service Agent Transfer & Ticketing",
+          "path": "\/Company Group\/Berufsbilder Introtexte\/",
+          "tags": [
+            57
+          ]
+        }
+      },
+      {
+        "_index": "data_dao",
+        "_type": "introtext",
+        "_id": "374",
+        "_score": 1.0,
+        "_source": {
+          "sortingpriority": 0,
+          "localized": {
+            "de": {
+              "name": "Introtext StartLSG",
+              "headline": "StartLSG",
+              "introtext": "<p>W\u00e4hrend Ihres zweij\u00e4hrigen Programms erwerben Sie umfangreiche Branchenkenntnisse und lernen unterschiedliche Bereiche von LSG Sky Chefs in Deutschland kennen. Je nach gew\u00e4hltem Schwerpunkt konzentrieren Sie sich dabei praxisnah auf die Bereiche Produktion und Logistik, Betriebswirtschaft (kaufm\u00e4nnischer Schwerpunkt), Personal oder Qualit\u00e4tsmanagement.<\/p>\n"
+            },
+            "de_at": {
+              "name": null,
+              "headline": null,
+              "introtext": null
+            },
+            "de_ch": {
+              "name": null,
+              "headline": null,
+              "introtext": null
+            },
+            "en": {
+              "name": "Introtext StartLSG",
+              "headline": "StartLSG",
+              "introtext": "<p>During the two-year graduate program you will acquire extensive industry knowledge and get to know the various business sectors of LSG Sky Chefs in Germany. Depending on the focus you select, you will concentrate your hands-on efforts in the areas of production and logistics, business administration (commercial focus), human resources or quality management.<\/p>\n"
+            }
+          },
+          "type": "object",
+          "key": "StartLSG",
+          "path": "\/Company Group\/Berufsbilder Introtexte\/",
+          "tags": [
+            56
+          ]
+        }
+      },
+      {
+        "_index": "data_dao",
+        "_type": "introtext",
+        "_id": "377",
+        "_score": 1.0,
+        "_source": {
+          "sortingpriority": 0,
+          "localized": {
+            "de": {
+              "name": "Introtext Veranstaltungskaufmann",
+              "headline": "Veranstaltungskaufmann\/-frau",
+              "introtext": "<p>Als Veranstaltungskaufmann oder -kauffrau planen Sie Veranstaltungen und betreuen ihre Umsetzung. Sie beraten Kunden und erstellen f\u00fcr sie zielgruppenspezifische Konzepte. Sie kooperieren z.B. mit K\u00fcnstlern, Technikern und&nbsp;internen und externen Dienstleistern&nbsp;oder kalkulieren kaufm\u00e4nnische oder personelle Vorg\u00e4nge im Rahmen von Events.<\/p>\n"
+            },
+            "de_at": {
+              "name": null,
+              "headline": null,
+              "introtext": null
+            },
+            "de_ch": {
+              "name": null,
+              "headline": null,
+              "introtext": null
+            },
+            "en": {
+              "name": "Introtext Events Manager",
+              "headline": "Events Manager",
+              "introtext": "<p>As an Events Manager (m\/f)&nbsp; you will plan events and support their implementation. You will advise customers and create target group-specific concepts for them. You will cooperate with artists,&nbsp;technicians and internal or external service providers or calculate business or personnel transactions in the context of events.<\/p>\n"
+            }
+          },
+          "type": "object",
+          "key": "Veranstaltungskaufmann",
+          "path": "\/Company Group\/Berufsbilder Introtexte\/",
+          "tags": [
+            70
+          ]
+        }
+      },
+      {
+        "_index": "data_dao",
+        "_type": "introtext",
+        "_id": "379",
+        "_score": 1.0,
+        "_source": {
+          "sortingpriority": 0,
+          "localized": {
+            "de": {
+              "name": "Introtext Werkzeugmechaniker",
+              "headline": "Werkzeugmechaniker\/-in",
+              "introtext": "<p>Als Werkzeugmechaniker oder Werkzeugmechanikerin sind Sie nicht nur der gefragte Spezialist f\u00fcr Bauteile, die manuell bearbeitet, repariert oder gepr\u00fcft werden, sondern auch f\u00fcr die Bearbeitung auf Werkzeugmaschinen.<\/p>\n"
+            },
+            "de_at": {
+              "name": null,
+              "headline": null,
+              "introtext": null
+            },
+            "de_ch": {
+              "name": null,
+              "headline": null,
+              "introtext": null
+            },
+            "en": {
+              "name": "Introtext Tool Mechanic",
+              "headline": "Tool Mechanic",
+              "introtext": "<p>As a Tool Mechanic (m\/f), you are not only the sought-after specialist for all components that must be handled, repaired or checkedmanually, but also for their challenging machine processing.<\/p>\n"
+            }
+          },
+          "type": "object",
+          "key": "Werkzeugmechaniker",
+          "path": "\/Company Group\/Berufsbilder Introtexte\/",
+          "tags": [
+            91
+          ]
+        }
+      },
+      {
+        "_index": "data_dao",
+        "_type": "introtext",
+        "_id": "381",
+        "_score": 1.0,
+        "_source": {
+          "sortingpriority": 0,
+          "localized": {
+            "de": {
+              "name": "Introtext Zerspanungsmechaniker",
+              "headline": "Zerspanungsmechaniker\/-in Fr\u00e4stechnik",
+              "introtext": "<p>Als Zerspanungsmechaniker\/-in der Fachrichtung Fr\u00e4stechnik sind Sie Experte f\u00fcr die Bearbeitung von Werkst\u00fccken aus Stahl oder Kunststoff, Sie werten technische Zeichnungen aus und setzen Sie in Pr\u00e4zisionsbauteile um, Sie richten Fr\u00e4s- und Schleifmaschinen ein, planen Fertigungsprozesse oder schreiben Programme f\u00fcr CNC-Maschinen.<\/p>\n"
+            },
+            "de_at": {
+              "name": null,
+              "headline": null,
+              "introtext": null
+            },
+            "de_ch": {
+              "name": null,
+              "headline": null,
+              "introtext": null
+            },
+            "en": {
+              "name": "Introtext Metal Cutting Mechanic ",
+              "headline": "Metal Cutting Mechanic in Milling Technology",
+              "introtext": "<p>As a Metal Cutting Mechanic in Milling Technology, you are the expert for the processing of steel and synthetic material parts, you evaluate technical drawings and turn them into precision components, configure milling and grinding machines, plan manufacturing processes or write programs for CNC machines.<\/p>\n"
+            }
+          },
+          "type": "object",
+          "key": "Zerspanungsmechaniker",
+          "path": "\/Company Group\/Berufsbilder Introtexte\/",
+          "tags": [
+            92
+          ]
+        }
+      },
+      {
+        "_index": "data_dao",
+        "_type": "locales",
+        "_id": "393",
+        "_score": 1.0,
+        "_source": {
+          "sortingpriority": 0,
+          "localized": {
+            "de": {
+              "text": "Social Media"
+            },
+            "de_at": {
+              "text": null
+            },
+            "de_ch": {
+              "text": null
+            },
+            "en": {
+              "text": "Social Media"
+            }
+          },
+          "type": "object",
+          "key": "socialmediaTitle",
+          "path": "\/2 - locales\/statictexts\/socialmedia-widget\/",
+          "tags": [
+            108
+          ]
+        }
+      },
+      {
+        "_index": "data_dao",
+        "_type": "locales",
+        "_id": "400",
+        "_score": 1.0,
+        "_source": {
+          "sortingpriority": 0,
+          "localized": {
+            "de": {
+              "text": "suche"
+            },
+            "de_at": {
+              "text": null
+            },
+            "de_ch": {
+              "text": null
+            },
+            "en": {
+              "text": "search"
+            }
+          },
+          "type": "object",
+          "key": "search",
+          "path": "\/2 - locales\/statictexts\/search-box\/",
+          "tags": [
+            108
+          ]
+        }
+      },
+      {
+        "_index": "data_dao",
+        "_type": "locales",
+        "_id": "402",
+        "_score": 1.0,
+        "_source": {
+          "sortingpriority": 0,
+          "localized": {
+            "de": {
+              "text": "Infos und Bewerbung"
+            },
+            "de_at": {
+              "text": null
+            },
+            "de_ch": {
+              "text": null
+            },
+            "en": {
+              "text": "Information and application"
+            }
+          },
+          "type": "object",
+          "key": "infoAndApplication",
+          "path": "\/2 - locales\/statictexts\/search-box\/",
+          "tags": [
+            108
+          ]
+        }
+      },
+      {
+        "_index": "data_dao",
+        "_type": "locales",
+        "_id": "403",
+        "_score": 1.0,
+        "_source": {
+          "sortingpriority": 0,
+          "localized": {
+            "de": {
+              "text": "zu Favoriten hinzuf\u00fcgen"
+            },
+            "de_at": {
+              "text": null
+            },
+            "de_ch": {
+              "text": null
+            },
+            "en": {
+              "text": "add to favorites"
+            }
+          },
+          "type": "object",
+          "key": "addToFavorites",
+          "path": "\/2 - locales\/statictexts\/search-box\/",
+          "tags": [
+            108
+          ]
+        }
+      },
+      {
+        "_index": "data_dao",
+        "_type": "locales",
+        "_id": "405",
+        "_score": 1.0,
+        "_source": {
+          "sortingpriority": 0,
+          "localized": {
+            "de": {
+              "text": "Geben Sie Ihren Suchbegriff ein"
+            },
+            "de_at": {
+              "text": null
+            },
+            "de_ch": {
+              "text": null
+            },
+            "en": {
+              "text": "Please enter your search term"
+            }
+          },
+          "type": "object",
+          "key": "enterYourSearchTerm",
+          "path": "\/2 - locales\/statictexts\/search-box\/",
+          "tags": [
+            108
+          ]
+        }
+      },
+      {
+        "_index": "data_dao",
+        "_type": "locales",
+        "_id": "407",
+        "_score": 1.0,
+        "_source": {
+          "sortingpriority": 0,
+          "localized": {
+            "de": {
+              "text": "Schlie\u00dfen"
+            },
+            "de_at": {
+              "text": null
+            },
+            "de_ch": {
+              "text": null
+            },
+            "en": {
+              "text": "Close"
+            }
+          },
+          "type": "object",
+          "key": "modalClose",
+          "path": "\/2 - locales\/statictexts\/supportnav\/",
+          "tags": [
+            108
+          ]
+        }
+      },
+      {
+        "_index": "data_dao",
+        "_type": "locales",
+        "_id": "410",
+        "_score": 1.0,
+        "_source": {
+          "sortingpriority": 0,
+          "localized": {
+            "de": {
+              "text": "Chat"
+            },
+            "de_at": {
+              "text": null
+            },
+            "de_ch": {
+              "text": null
+            },
+            "en": {
+              "text": "Chat"
+            }
+          },
+          "type": "object",
+          "key": "supportnavChatTrigger",
+          "path": "\/2 - locales\/statictexts\/supportnav\/",
+          "tags": [
+            108
+          ]
+        }
+      },
+      {
+        "_index": "data_dao",
+        "_type": "locales",
+        "_id": "411",
+        "_score": 1.0,
+        "_source": {
+          "sortingpriority": 0,
+          "localized": {
+            "de": {
+              "text": "Favoriten"
+            },
+            "de_at": {
+              "text": null
+            },
+            "de_ch": {
+              "text": null
+            },
+            "en": {
+              "text": "Favorites"
+            }
+          },
+          "type": "object",
+          "key": "supportnavFavoritesTrigger",
+          "path": "\/2 - locales\/statictexts\/supportnav\/",
+          "tags": [
+            108
+          ]
+        }
+      },
+      {
+        "_index": "data_dao",
+        "_type": "locales",
+        "_id": "412",
+        "_score": 1.0,
+        "_source": {
+          "sortingpriority": 0,
+          "localized": {
+            "de": {
+              "text": "Teilen"
+            },
+            "de_at": {
+              "text": null
+            },
+            "de_ch": {
+              "text": null
+            },
+            "en": {
+              "text": "Share"
+            }
+          },
+          "type": "object",
+          "key": "supportnavShareTrigger",
+          "path": "\/2 - locales\/statictexts\/supportnav\/",
+          "tags": [
+            108
+          ]
+        }
+      },
+      {
+        "_index": "data_dao",
+        "_type": "locales",
+        "_id": "413",
+        "_score": 1.0,
+        "_source": {
+          "sortingpriority": 0,
+          "localized": {
+            "de": {
+              "text": "Support"
+            },
+            "de_at": {
+              "text": null
+            },
+            "de_ch": {
+              "text": null
+            },
+            "en": {
+              "text": "Support"
+            }
+          },
+          "type": "object",
+          "key": "supportnavSupportTrigger",
+          "path": "\/2 - locales\/statictexts\/supportnav\/",
+          "tags": [
+            108
+          ]
+        }
+      },
+      {
+        "_index": "data_dao",
+        "_type": "locales",
+        "_id": "415",
+        "_score": 1.0,
+        "_source": {
+          "sortingpriority": 0,
+          "localized": {
+            "de": {
+              "text": "Suchen"
+            },
+            "de_at": {
+              "text": null
+            },
+            "de_ch": {
+              "text": null
+            },
+            "en": {
+              "text": "Search"
+            }
+          },
+          "type": "object",
+          "key": "supportnavSearchBtn",
+          "path": "\/2 - locales\/statictexts\/supportnav\/",
+          "tags": [
+            108
+          ]
+        }
+      },
+      {
+        "_index": "data_dao",
+        "_type": "locales",
+        "_id": "416",
+        "_score": 1.0,
+        "_source": {
+          "sortingpriority": 0,
+          "localized": {
+            "de": {
+              "text": "Suchbegriff"
+            },
+            "de_at": {
+              "text": null
+            },
+            "de_ch": {
+              "text": null
+            },
+            "en": {
+              "text": "Search term"
+            }
+          },
+          "type": "object",
+          "key": "supportnavSearchTerm",
+          "path": "\/2 - locales\/statictexts\/supportnav\/",
+          "tags": [
+            108
+          ]
+        }
+      },
+      {
+        "_index": "data_dao",
+        "_type": "locales",
+        "_id": "421",
+        "_score": 1.0,
+        "_source": {
+          "sortingpriority": 0,
+          "localized": {
+            "de": {
+              "text": "Alle"
+            },
+            "de_at": {
+              "text": null
+            },
+            "de_ch": {
+              "text": null
+            },
+            "en": {
+              "text": "All"
+            }
+          },
+          "type": "object",
+          "key": "socialmediaFilterAll",
+          "path": "\/2 - locales\/statictexts\/socialmedia-widget\/",
+          "tags": [
+            108
+          ]
+        }
+      },
+      {
+        "_index": "data_dao",
+        "_type": "locales",
+        "_id": "217",
+        "_score": 1.0,
+        "_source": {
+          "sortingpriority": 0,
+          "tagid": "35",
+          "localized": {
+            "de": {
+              "text": "Berufseinsteiger\/-in"
+            },
+            "de_at": {
+              "text": null
+            },
+            "de_ch": {
+              "text": null
+            },
+            "en": {
+              "text": "Entry level\/-in"
+            }
+          },
+          "type": "object",
+          "key": "Berufseinsteiger\/-in",
+          "path": "\/2 - locales\/tag locales\/Entry level\/",
+          "tags": [
+            35
+          ]
+        }
+      },
+      {
+        "_index": "data_dao",
+        "_type": "locales",
+        "_id": "219",
+        "_score": 1.0,
+        "_source": {
+          "sortingpriority": 0,
+          "tagid": "103",
+          "localized": {
+            "de": {
+              "text": "Direkteinstieg"
+            },
+            "de_at": {
+              "text": null
+            },
+            "de_ch": {
+              "text": null
+            },
+            "en": {
+              "text": "Direct Entry"
+            }
+          },
+          "type": "object",
+          "key": "Direkteinstieg",
+          "path": "\/2 - locales\/tag locales\/Entry level\/",
+          "tags": [
+            103
+          ]
+        }
+      },
+      {
+        "_index": "data_dao",
+        "_type": "locales",
+        "_id": "227",
+        "_score": 1.0,
+        "_source": {
+          "sortingpriority": 0,
+          "tagid": "39",
+          "localized": {
+            "de": {
+              "text": "Praktikum"
+            },
+            "de_at": {
+              "text": null
+            },
+            "de_ch": {
+              "text": null
+            },
+            "en": {
+              "text": "internship"
+            }
+          },
+          "type": "object",
+          "key": "Praktikum",
+          "path": "\/2 - locales\/tag locales\/Entry level\/",
+          "tags": [
+            39
+          ]
+        }
+      },
+      {
+        "_index": "data_dao",
+        "_type": "locales",
+        "_id": "224",
+        "_score": 1.0,
+        "_source": {
+          "sortingpriority": 0,
+          "tagid": "33",
+          "localized": {
+            "de": {
+              "text": "Sch\u00fcler\/-in"
+            },
+            "de_at": {
+              "text": null
+            },
+            "de_ch": {
+              "text": null
+            },
+            "en": {
+              "text": "Pupil"
+            }
+          },
+          "type": "object",
+          "key": "Sch\u00fcler\/-in",
+          "path": "\/2 - locales\/tag locales\/Entry level\/",
+          "tags": [
+            33
+          ]
+        }
+      },
+      {
+        "_index": "data_dao",
+        "_type": "locales",
+        "_id": "223",
+        "_score": 1.0,
+        "_source": {
+          "sortingpriority": 0,
+          "tagid": "44",
+          "localized": {
+            "de": {
+              "text": "IT"
+            },
+            "de_at": {
+              "text": null
+            },
+            "de_ch": {
+              "text": null
+            },
+            "en": {
+              "text": "IT"
+            }
+          },
+          "type": "object",
+          "key": "Informationstechnik (IT)",
+          "path": "\/2 - locales\/tag locales\/Interest\/",
+          "tags": [
+            44
+          ]
+        }
+      },
+      {
+        "_index": "data_dao",
+        "_type": "locales",
+        "_id": "220",
+        "_score": 1.0,
+        "_source": {
+          "sortingpriority": 0,
+          "tagid": "48",
+          "localized": {
+            "de": {
+              "text": "Fliegerei"
+            },
+            "de_at": {
+              "text": null
+            },
+            "de_ch": {
+              "text": null
+            },
+            "en": {
+              "text": "Aviation"
+            }
+          },
+          "type": "object",
+          "key": "Fliegerei",
+          "path": "\/2 - locales\/tag locales\/Interest\/",
+          "tags": [
+            48
+          ]
+        }
+      },
+      {
+        "_index": "data_dao",
+        "_type": "locales",
+        "_id": "230",
+        "_score": 1.0,
+        "_source": {
+          "sortingpriority": 0,
+          "tagid": "47",
+          "localized": {
+            "de": {
+              "text": "Logistik"
+            },
+            "de_at": {
+              "text": null
+            },
+            "de_ch": {
+              "text": null
+            },
+            "en": {
+              "text": "logistics"
+            }
+          },
+          "type": "object",
+          "key": "Logistik",
+          "path": "\/2 - locales\/tag locales\/Interest\/",
+          "tags": [
+            47
+          ]
+        }
+      },
+      {
+        "_index": "data_dao",
+        "_type": "locales",
+        "_id": "229",
+        "_score": 1.0,
+        "_source": {
+          "sortingpriority": 0,
+          "tagid": "40",
+          "localized": {
+            "de": {
+              "text": "Trainee"
+            },
+            "de_at": {
+              "text": null
+            },
+            "de_ch": {
+              "text": null
+            },
+            "en": {
+              "text": "Trainee"
+            }
+          },
+          "type": "object",
+          "key": "Trainee",
+          "path": "\/2 - locales\/tag locales\/Entry level\/",
+          "tags": [
+            40
+          ]
+        }
+      },
+      {
+        "_index": "data_dao",
+        "_type": "video",
+        "_id": "64",
+        "_score": 1.0,
+        "_source": {
+          "sortingpriority": 0,
+          "localized": {
+            "de": {
+              "video_name": "Die Test Kabinencrew stellt sich vor",
+              "video_description": "<p>Beschreibung zum Video<\/p>\n"
+            },
+            "de_at": {
+              "video_name": null,
+              "video_description": null
+            },
+            "de_ch": {
+              "video_name": null,
+              "video_description": null
+            },
+            "en": {
+              "video_name": "The Test cabin crew introduces itself",
+              "video_description": "<p>Description to the video<\/p>\n"
+            }
+          },
+          "video_content": {
+            "type": "youtube",
+            "data": "tk-7dRYO13M",
+            "poster": "",
+            "title": "",
+            "description": "",
+            "thumbnail_path": ""
+          },
+          "type": "object",
+          "key": "Die Test Kabinencrew stellt sich vor",
+          "path": "\/Test Group\/Videos\/",
+          "tags": [
+            7,
+            14,
+            41,
+            48,
+            49
+          ]
+        }
+      },
+      {
+        "_index": "data_dao",
+        "_type": "video",
+        "_id": "115",
+        "_score": 1.0,
+        "_source": {
+          "sortingpriority": 0,
+          "localized": {
+            "de": {
+              "video_name": "Azubis stellen ihre Ausbildung vor: Fachmann\/-frau f\u00fcr Systemgastronomie bei Company ",
+              "video_description": null
+            },
+            "de_at": {
+              "video_name": null,
+              "video_description": null
+            },
+            "de_ch": {
+              "video_name": null,
+              "video_description": null
+            },
+            "en": {
+              "video_name": "Trainees present their training: Specialist for system catering at Company",
+              "video_description": null
+            }
+          },
+          "video_content": {
+            "type": "youtube",
+            "data": "PhH5G7KEkz8",
+            "poster": "",
+            "title": "",
+            "description": "",
+            "thumbnail_path": ""
+          },
+          "type": "object",
+          "key": "Azubis stellen ihre Ausbildung vor: Fachmann\/-frau f\u00fcr Systemgastronomie bei Company",
+          "path": "\/LSG Group\/Videos\/",
+          "tags": [
+            8,
+            14,
+            37,
+            33,
+            46,
+            47,
+            80
+          ]
+        }
+      }
+    ]
+  }
+}

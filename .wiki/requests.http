@@ -1,0 +1,22 @@
+
+GET http://localhost/rest/get-objects-from-selected-tags/introtext
+Accept: application/json
+
+###
+
+GET http://localhost/rest/get-objects-from-selected-tags/introtext/33
+Accept: application/json
+
+###
+
+GET http://localhost/rest/get-facets-of-tags/33,45
+Accept: application/json
+#Cookie: XDEBUG_SESSION=netbeans-xdebug
+
+###
+
+GET http://localhost:9200/posts/_search
+
+###
+
+DELETE http://localhost:9200/posts

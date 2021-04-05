@@ -1,0 +1,42 @@
+version: "3.4"
+services:
+  php:
+    build:
+      context: .
+      dockerfile: .containerization/php_dev.Dockerfile
+    volumes:
+      - ./:/usr/local/apache2/htdocs
+      - composer:/root/.composer
+    working_dir: /usr/local/apache2/htdocs
+    environment:
+      # YOU ARE SUPPOSED TO BE ABLE TO USE host.docker.internal FOR remote_host (windows only) BUT IF IT
+      # DOES NOT WORK, USE YOUR IP FROM ipconfig
+      #      XDEBUG_CONFIG: "remote_host=host.docker.internal remote_enable=0 remote_autostart=0 remote_connect_back=0 profiler_enable=0 profiler_output_dir=/usr/local/apache2/htdocs/profiling"
+      # Use this one for linux
+      XDEBUG_CONFIG: "idekey=PHPSTORM remote_connect_back=1 remote_enable=1"
+      COMPOSER_MEMORY_LIMIT: "-1"
+  httpd:
+    build:
+      context: .
+      dockerfile: .containerization/httpd.Dockerfile
+    volumes:
+      - ./:/usr/local/apache2/htdocs
+    working_dir: /usr/local/apache2/htdocs
+    ports:
+      - 80:80
+    depends_on:
+      - php
+  elasticsearch:
+    image: docker.elastic.co/elasticsearch/elasticsearch:5.6.16
+    ports:
+      - 9200:9200
+      - 9300:9300
+    environment:
+      discovery.type: single-node
+      ES_JAVA_OPTS: -Xms512m -Xmx512m
+      xpack.security.enabled: 'false'
+    volumes:
+      -   elasticsearch:/usr/share/elasticsearch/data
+volumes:
+  composer:
+  elasticsearch:
