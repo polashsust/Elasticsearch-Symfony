@@ -63,7 +63,7 @@ class ElasticController extends AbstractController
      * @return JsonResponse JsonResponse
      */
     public function search(Client $client, Request $request, array $elasticIndex, string $type, string $tagids): JsonResponse {
-        // $query = $request->query->get('q');
+
         $startTime  = microtime(true);
         $searchDefinition   = $elasticIndex;
         if ($type) {
@@ -101,6 +101,7 @@ class ElasticController extends AbstractController
      * @param Request $request Request
      * @param array $elasticIndex ElasticIndex
      * @param string $tags Tags
+     *
      * @return JsonResponse JsonResponse
      */
     public function facets(Client $client, Request $request, array $elasticIndex, string $tags): JsonResponse {
