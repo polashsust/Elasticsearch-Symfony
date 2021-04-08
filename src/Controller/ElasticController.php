@@ -11,21 +11,27 @@ use Symfony\Component\Routing\Annotation\Route;
 
 class ElasticController extends AbstractController
 {
+
     /**
      * @Route("/show", name="show")
+     *
+     * @return Response
      */
-    public function show(): Response
-    {
+    public function show(): Response {
         return $this->render('elastic/index.html.twig', [
             'controller_name' => 'ElasticController',
         ]);
     }
 
     /**
+     *
      * @Route("/elastic", name="elastic", methods={"GET"})
+     *
+     * @param Client $client Client
+     *
+     * @return JsonResponse
      */
-    public function elastic(Client $client): JsonResponse
-    {
+    public function elastic(Client $client): JsonResponse {
         return $this->json([
             'message' => 'testing'
         ]);
@@ -33,19 +39,30 @@ class ElasticController extends AbstractController
 
     /**
      * @Route("/rest/indices", name="elastic_indices", methods={"GET"})
+     *
+     * @param Client $client Client
+     *
+     * @return JsonResponse JsonResponse
      */
-    public function indices(Client $client): JsonResponse
-    {
+    public function indices(Client $client): JsonResponse {
         return $this->json([
             'indices' => $client->cat()->indices()
         ]);
     }
 
+
     /**
      * @Route("/rest/get-objects-from-selected-tags/{type}/{tagids}", defaults={"type"="","tagids"=""}, name="elastic_search", methods={"GET"})
+     *
+     * @param Client $client Client
+     * @param Request $request Request
+     * @param array $elasticIndex ElasticIndex
+     * @param string $type Type
+     * @param string $tagids Tagids
+     *
+     * @return JsonResponse JsonResponse
      */
-    public function search(Client $client, Request $request, array $elasticIndex, string $type, string $tagids): JsonResponse
-    {
+    public function search(Client $client, Request $request, array $elasticIndex, string $type, string $tagids): JsonResponse {
         // $query = $request->query->get('q');
         $startTime  = microtime(true);
         $searchDefinition   = $elasticIndex;
@@ -74,22 +91,19 @@ class ElasticController extends AbstractController
 
         return $this->json($result['hits'] + ['execution_time' => (microtime(true) - $startTime).'']);
 
-        // for further mapping result
-        // $data = array_map(function ($item) {
-        //     // return ['value' => $item['_source']];
-        //     return $item;
-        // }, $result['hits']['hits']);
-
-        // return $this->json([
-        //     $data
-        // ]);
     }
+
 
     /**
      * @Route("/rest/get-facets-of-tags/{tags}", defaults={"tags"=""}, name="elastic_facets", methods={"GET"})
+     *
+     * @param Client $client Client
+     * @param Request $request Request
+     * @param array $elasticIndex ElasticIndex
+     * @param string $tags Tags
+     * @return JsonResponse JsonResponse
      */
-    public function facets(Client $client, Request $request, array $elasticIndex, string $tags): JsonResponse
-    {
+    public function facets(Client $client, Request $request, array $elasticIndex, string $tags): JsonResponse {
         $startTime          = microtime(true);
 
         if ($tags) {
