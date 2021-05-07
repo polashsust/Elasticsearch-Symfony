@@ -42,4 +42,4 @@ Be aware, that there might be permission-issues within the docker-containers for
 
 To access the shell in the php container run: ```docker-compose exec php ash```
 
-If you find any errors in this setup, please write me an email - marcus.haase@milchundzucker.de
+If you find any errors in this setup, please write me an email
